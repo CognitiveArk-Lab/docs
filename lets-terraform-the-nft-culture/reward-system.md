@@ -16,7 +16,7 @@ NFT holders that stake their NFT will receive passive income paid in $LUNA.&#x20
 
 Every two weeks, we will announce the winner to receive:
 
-*   #### &#x20;Legendary NFT
+*   #### &#x20;<mark style="color:yellow;background-color:blue;"><mark style="color:yellow;background-color:orange;">Legendary<mark style="color:yellow;background-color:orange;"></mark> <mark style="color:yellow;background-color:blue;"></mark><mark style="color:yellow;background-color:blue;">NFT</mark>
 
     Number 1 player in the biweekly Leaderboard will receive 1 Legendary NFT that can be played in our gamification v2 update.
 *   **$UST**
@@ -25,7 +25,9 @@ Every two weeks, we will announce the winner to receive:
 
 ### <mark style="color:yellow;">3. Comic Page Airdrops</mark>
 
+Each player participating in our "insert\_gamification\_name\_here" will receive a copy of the comic page with the winner NFT as the main character.
 
+<mark style="color:yellow;"></mark>
 
 <mark style="color:yellow;"></mark>
 
