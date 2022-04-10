@@ -2,11 +2,11 @@
 
 Our goal is to build a sustainable community that encourages the NFT holder to play the game to earn more rewards. There are three primary rewards from our gamification:
 
-1. &#x20;Staking Reward.
-2. &#x20;Biweekly Reward:
+1. [Staking Reward](reward-system.md#1.-staking-reward)
+2. [Biweekly Reward:](reward-system.md#2.-biweekly-reward)
    * Legendary NFT.
    * $UST.
-3. &#x20;Comic Page Airdrops.
+3. &#x20;[Comic Page Airdrops.](reward-system.md#3.-comic-page-airdrops)
 
 ### <mark style="color:yellow;">1. Staking Reward</mark>
 
@@ -16,10 +16,10 @@ NFT holders that stake their NFT will receive passive income paid in $LUNA.&#x20
 
 Every two weeks, we will announce the winner to receive:
 
-*   #### &#x20;<mark style="color:yellow;background-color:blue;"><mark style="color:yellow;background-color:orange;">Legendary<mark style="color:yellow;background-color:orange;"></mark> <mark style="color:yellow;background-color:blue;"></mark><mark style="color:yellow;background-color:blue;">NFT</mark>
+*   #### &#x20;<mark style="color:purple;">Legendary NFT</mark>
 
     Number 1 player in the biweekly Leaderboard will receive 1 Legendary NFT that can be played in our gamification v2 update.
-*   **$UST**
+*   <mark style="color:purple;">**$UST**</mark>
 
     We will airdrop $UST to the top 100 players in the biweekly Leaderboard.
 
