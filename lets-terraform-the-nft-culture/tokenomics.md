@@ -1,0 +1,4 @@
+# 🪙 Tokenomics
+
+Lorem ipsum
+
