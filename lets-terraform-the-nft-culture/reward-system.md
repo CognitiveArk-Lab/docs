@@ -10,7 +10,11 @@ Our goal is to build a sustainable community that encourages the NFT holder to p
 
 ### <mark style="color:yellow;">1. Staking Reward</mark>
 
-NFT holders that stake their NFT will receive passive income paid in $LUNA.&#x20;
+We will allocate royalties from the 2nd marketplace (_Luart 3,15%_ and _RandomEarth 4,5%_) for staking rewards. NFT holders that stake their NFT will receive passive income paid in $LUNA.
+
+{% hint style="success" %}
+Get a higher share from the staking pools by filling those multiplier slots.&#x20;
+{% endhint %}
 
 ### <mark style="color:yellow;">2. Biweekly Reward</mark>
 
