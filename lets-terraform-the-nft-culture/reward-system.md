@@ -10,7 +10,7 @@ Our goal is to build a sustainable community that encourages the NFT holder to p
 
 ### <mark style="color:yellow;">1. Staking Reward</mark>
 
-We will allocate royalties from the 2nd marketplace (_Luart 3,15%_ and _RandomEarth 4,5%_) for staking rewards. NFT holders that stake their NFT will receive passive income paid in $LUNA.
+We will allocate [royalties](../i-want-to-know-more/funds-allocation.md#royalty) from the secondary sales staking rewards. NFT holders that stake their NFT will receive passive income paid in $LUNA.
 
 {% hint style="success" %}
 Get a higher share from the staking pools by filling those multiplier slots.&#x20;
@@ -26,6 +26,10 @@ Every two weeks, we will announce the winner to receive:
 *   <mark style="color:purple;">**$UST**</mark>
 
     We will airdrop $UST to the top 100 players in the biweekly Leaderboard.
+
+{% hint style="info" %}
+The Biweekly Reward will be coming from (Colony Investment Program). More info about it [here](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip).
+{% endhint %}
 
 ### <mark style="color:yellow;">3. Comic Page Airdrops</mark>
 
