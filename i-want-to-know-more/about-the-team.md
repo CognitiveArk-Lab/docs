@@ -30,7 +30,7 @@ CO-FOUNDER & CCO
 
 The stories, myths, and mysteries of humanity inspire him to reflect on the meaning of life through all kinds of storytelling. Art events organizer. Producer and Director of a documentary movie.
 
-### **SimanisjemabatanK**
+### **Putripadalarang**
 
 CO-FOUNDER & ART DIRECTOR
 
