@@ -19,7 +19,7 @@ All of the gen0 memories will possess these fundamental utilities:
 
 ## Staking Pool Distribution
 
-![](<../.gitbook/assets/Finance - Staking Pool Distribution.jpg>)
+![](<../.gitbook/assets/Finance - Staking Pool.jpg>)
 
 {% hint style="info" %}
 The smart contract will split the secondary royalties into four pools. Each __ pool represents one of the Memory rarity. Memory Staker will share the pools based on the rarity. _More information on Royalty distribution under_ [_Funds Allocation_](../i-want-to-know-more/funds-allocation.md#royalty)_._

@@ -69,9 +69,9 @@ We will use the Marketing funds to expand our exposure to other communities. The
 
 We are here to innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
 
-## Royalty&#x20;
+## Royalty 🧾
 
-The royalties from the secondary NFT marketplace are distributed directly into the Staking Pool, where the Colony can claim the funds on our Dashboard on the website.
+The royalties from the secondary NFT marketplace are distributed directly into the[ Staking Pool](../lets-terraform-the-nft-culture/tokenomics.md#staking-pool-distribution), where the Colony can claim the rewards on our Dashboard on the website.
 
 {% hint style="success" %}
 Get a higher share from the staking pools by filling those multiplier slots.&#x20;
