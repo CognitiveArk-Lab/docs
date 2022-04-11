@@ -6,16 +6,16 @@ description: In this section, you can learn more about our funds' allocation.
 
 ## INDEX
 
-1. &#x20;[**Initial Sale**](funds-allocation.md#initial-sale)****
-2. [**Treasury**](funds-allocation.md#treasury)****
-   * [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
-3. [**Project Wallet**](funds-allocation.md#project-wallet)****
-   * [Merch Store](funds-allocation.md#merch-store)
-   * [Marketing](funds-allocation.md#marketing)
-   * [Development](funds-allocation.md#development)
-4. [**Royalty**](funds-allocation.md#royalty)****
+1. &#x20;[**Initial Sale**](funds-allocation.md#initial-sale) **** ✨
+2. [**Treasury**](funds-allocation.md#treasury) **** 💵
+   * [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip) 📈
+3. [**Project Wallet**](funds-allocation.md#project-wallet) **** 💼
+   * [Merch Store](funds-allocation.md#merch-store) 🛍️
+   * [Marketing](funds-allocation.md#marketing) 📡
+   * [Development](funds-allocation.md#development) 🧰
+4. [**Royalty**](funds-allocation.md#royalty) **** 💲
 
-## Initial Sale
+## Initial Sale ✨
 
 Distributions from minting sales are as follow:
 
@@ -25,7 +25,7 @@ Distributions from minting sales are as follow:
 
 ![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 1.jpg>)
 
-## Treasury
+## Treasury 💵
 
 More than half of our initial sales will go to the Treasury. The funds in the Treasury will be later managed by the community decision (DAO). At first, we will allocate the funds to the Colony Investment Program.
 
@@ -40,7 +40,7 @@ The Team will provide the necessary platform for the Colony to open a discussion
 
 ![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 2.jpg>)
 
-### Colony Investment Program (CIP)
+### Colony Investment Program (CIP) 📈
 
 With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. So use your DeFi knowledge to make a proposal and vote for the best suggestion to boost our Colony further!
 
@@ -62,7 +62,7 @@ The profit of CIP will be distributed each month:
 * 10% to Project Wallet
 * 20% to Team
 
-## Project Wallet
+## Project Wallet 💼
 
 It is crucial for the Colony to be able to separate Treasury from Project wallet because we have a long road ahead of us.
 
@@ -74,21 +74,21 @@ We will use the Project Wallet mainly on:&#x20;
 
 ![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 3.jpg>)
 
-### Merch Store
+### Merch Store 🛍️
 
 What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on CognitiveArk Tees, Caps, Art prints, and many more!&#x20;
 
 We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
 
-### Marketing
+### Marketing 📡
 
 We will use the Marketing funds to expand our exposure to other communities. The focus will be on media content like videos, images, and other assets.
 
-### Development
+### Development 🧰📡
 
 We are here to stay and innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
 
-## Royalty
+## Royalty 💲
 
 The royalties coming from the secondary NFT marketplace are distributed directly into the Staking Pool, where the Colony can claim the funds on our Dashboard on the website.
 
