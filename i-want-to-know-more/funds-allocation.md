@@ -28,7 +28,7 @@ With the Colony behind the Treasury, we will discover the best yet safest invest
 The first CIP allocation is as follows:
 
 * 70% into Anchor to receive \~19,47 APY in $UST.
-* 30% into the community chosen project on Terra.
+* 30% into the community chosen projects on Terra.
 
 {% hint style="info" %}
 After the initial Colony Investment Program, the Colony will be able to submit a proposal after our initial minting phase is over.
@@ -67,7 +67,7 @@ We will use the Marketing funds to expand our exposure to other communities. The
 
 ### Development 🧰
 
-We are here to stay and innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
+We are here to innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
 
 ## Royalty&#x20;
 
@@ -79,15 +79,32 @@ Get a higher share from the staking pools by filling those multiplier slots.&#x2
 
 The royalty distribution based on the secondary marketplace:
 
-* **Knowhere (5%)**
-  * 4,5% to Project Wallet
-  * 0,5% to Team
-* **Random Earth (5%)**
-  * 4,5% to Project Wallet
-  * 0,5% to Team
-* **Luart (3,5%)**
-  * 3,15% to Project Wallet
-  * 0,35% to Team
+<details>
+
+<summary><a href="https://knowhere.art">Knowhere</a> <strong>(5%)</strong></summary>
+
+* 4,5% to Project Wallet
+* 0,5% to Team
+
+</details>
+
+<details>
+
+<summary><strong></strong><a href="https://randomearth.io/home"><strong>Random Earth</strong></a> <strong>(5%)</strong></summary>
+
+* 4,5% to Project Wallet
+* 0,5% to Team
+
+</details>
+
+<details>
+
+<summary><strong></strong><a href="https://marketplace.luart.io"><strong>Luart</strong> </a><strong>(3,5%)</strong></summary>
+
+* 3,15% to Project Wallet
+* 0,35% to Team
+
+</details>
 
 \
 
