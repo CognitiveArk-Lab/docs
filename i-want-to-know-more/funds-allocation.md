@@ -90,7 +90,7 @@ We are here to stay and innovate! To be able to terraform the NFT community is o
 
 ## Royalty 💲
 
-The royalties coming from the secondary NFT marketplace are distributed directly into the Staking Pool, where the Colony can claim the funds on our Dashboard on the website.
+The royalties from the secondary NFT marketplace are distributed directly into the Staking Pool, where the Colony can claim the funds on our Dashboard on the website.
 
 {% hint style="success" %}
 Get a higher share from the staking pools by filling those multiplier slots.&#x20;
