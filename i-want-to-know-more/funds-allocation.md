@@ -4,6 +4,17 @@ description: In this section, you can learn more about our funds' allocation.
 
 # 🏛 Funds Allocation
 
+## INDEX
+
+1. &#x20;[**Initial Sale**](funds-allocation.md#initial-sale)****
+2. [**Treasury**](funds-allocation.md#treasury)****
+   * [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
+3. [**Project Wallet**](funds-allocation.md#project-wallet)****
+   * [Merch Store](funds-allocation.md#merch-store)
+   * [Marketing](funds-allocation.md#marketing)
+   * [Development](funds-allocation.md#development)
+4. [**Royalty**](funds-allocation.md#royalty)****
+
 ## Initial Sale
 
 Distributions from minting sales are as follow:
