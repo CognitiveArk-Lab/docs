@@ -39,7 +39,9 @@ The first CIP allocation is as follows:
 * 30% into the community chosen project on Terra.
 
 {% hint style="warning" %}
-The CIP is the backbone of our project sustainability.&#x20;
+The Colony will be able to submit a proposal after our initial minting phase is over.
+
+Remember that the CIP is the backbone of our project sustainability.&#x20;
 {% endhint %}
 
 The profit of CIP will be distributed each month:
@@ -61,6 +63,12 @@ We will use the Project Wallet mainly on:&#x20;
 
 ![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 3.jpg>)
 
+### Merch Store
+
+What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on CognitiveArk Tees, Caps, Art prints, and many more!&#x20;
+
+We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
+
 ### Marketing
 
 We will use the Marketing funds to expand our exposure to other communities. The focus will be on media content like videos, images, and other assets.
@@ -68,12 +76,6 @@ We will use the Marketing funds to expand our exposure to other communities. The
 ### Development
 
 We are here to stay and innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
-
-### Merch Store
-
-What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on CognitiveArk Tees, Caps, Art prints, and many more!&#x20;
-
-We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
 
 ## Royalty
 
