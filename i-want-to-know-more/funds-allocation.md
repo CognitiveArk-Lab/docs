@@ -27,7 +27,7 @@ With the Colony behind the Treasury, we will discover the best yet safest invest
 
 The first CIP allocation is as follows:
 
-* 70% into Anchor to receive \~19,47 APY in $UST.
+* 70% into [Anchor](https://app.anchorprotocol.com/earn) to receive \~19,47 APY in $UST.
 * 30% into the community chosen projects on Terra.
 
 {% hint style="info" %}
