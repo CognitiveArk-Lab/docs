@@ -36,14 +36,3 @@ The Biweekly Reward will be coming from (Colony Investment Program). More info a
 Each player participating in our "insert\_gamification\_name\_here" will receive a copy of the comic page with the winner NFT as the main character.
 
 <mark style="color:yellow;"></mark>
-
-<mark style="color:yellow;"></mark>
-
-
-
-
-
-\
-
-
-After each round is concluded, we will select the winners based on the points they scored and reward them with $UST, Comic Page airdrop, and 1 LEGENDARY NFT for one winner.
