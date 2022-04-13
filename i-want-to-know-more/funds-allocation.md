@@ -11,11 +11,13 @@ Distributions from minting sales are as follow:
 * 70% to Project Wallet.
   * 80% to Treasury
   * 20% to Operational Funds
-* 30% to Team.
+* 2.5% to Reward Pool
+* 2.5% to Angel Protocol
+* 25% to Team.
 
 ## Project Wallet 🚀
 
-Project Wallet will be maintained together by the Colony and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Spaceship (Messiah) exploring the fastness space of Terraverse.
+Project Wallet will be maintained together by the Colony and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terraverse.
 
 ![](<../.gitbook/assets/Finance - Project Walletv2.jpg>)
 
