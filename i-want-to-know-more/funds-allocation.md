@@ -9,13 +9,15 @@ description: In this section, you can learn more about our funds' allocation.
 Distributions from minting sales are as follow:
 
 * 70% to Project Wallet.
+  * 80% to Treasury
+  * 20% to Operational Funds
 * 30% to Team.
 
 ## Project Wallet 🚀
 
 Project Wallet will be maintained together by the Colony and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Spaceship (Messiah) exploring the fastness space of Terraverse.
 
-![](<../.gitbook/assets/Finance - Project Wallet.jpg>)
+![](<../.gitbook/assets/Finance - Project Walletv2.jpg>)
 
 ## Treasury 💵
 
@@ -25,31 +27,29 @@ The funds in the Treasury will be later managed by the community decision (DAO).
 
 With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. So use your DeFi knowledge to make a proposal and vote for the best strategy suggestion to expand our Colony economy!
 
-The first CIP allocation is as follows:
+**The first CIP allocation is as follows:**
 
-* 70% into [Anchor](https://app.anchorprotocol.com/earn) to receive \~19,47 APY in $UST.
-* 30% into the community chosen projects on Terra.
+* **70% into** [**Anchor**](https://app.anchorprotocol.com/earn) **to receive \~19,47 APY in $UST (Locked 2 Years).**
+* **30% into the community chosen projects on Terra.**
 
 {% hint style="info" %}
-After the initial Colony Investment Program, the Colony will be able to submit a proposal after our initial minting phase is over.
-
-The Team will provide the necessary platform for the Colony to open a discussion and vote.
+_30% from Treasury will be invested in Terra Ecosystem projects that are chosen by the colony. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
-Some standard ideas but not limited to:
+After the first CIP allocation, the ARK DAO will have the power to choose how the Colony will spend the Treasury. Some _ideas_ but not limited to:
 
 * Reinvest in Colony Investment Program
 * Raising Memory floor price
 * Boost the Staking Pool
 * Boost the Gamification rewards
 
-## Project Expenses💼
+## Operational Funds💼
 
 ![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 3.jpg>)
 
 It is crucial for the Colony to be able to separate Treasury from Project expenses because we have a long road ahead of us.
 
-We will use the Project Wallet mainly on:&#x20;
+We will use the Operational Funds mainly on:&#x20;
 
 * Merch Store!
 * Marketing
@@ -72,6 +72,10 @@ We are here to innovate! To be able to terraform the NFT community is our primar
 ## Royalty 🧾
 
 The royalties from the secondary NFT marketplace are distributed directly into the[ Staking Pool](../lets-terraform-the-nft-culture/tokenomics.md#staking-pool-distribution), where the Colony can claim the rewards on our Dashboard on the website.
+
+{% hint style="warning" %}
+_Staking rewards will be first distributed after **4 weeks** of the minting phase._
+{% endhint %}
 
 {% hint style="success" %}
 Get a higher share from the staking pools by filling those multiplier slots.&#x20;
