@@ -20,7 +20,7 @@ All of the gen0 memories will possess these fundamental utilities:
 * Access unique role on Discord
 * Gamification V2 benefits
 
-### $ARK
+## $ARK
 
 Memory holders will earn $ARK as they play and progress through the gamification.
 
