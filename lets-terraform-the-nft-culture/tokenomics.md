@@ -30,3 +30,7 @@ There will be a limited amount of $ARK emitted per day and splitting it into fou
 ![Memory Staker will share the pools with other stakers based on the rarity.](<../.gitbook/assets/Finance - ARK Pool.jpg>)
 
 You can then swap your $ARK for a raffle ticket that will be held Bi-Weekly!
+
+{% hint style="success" %}
+_Get your Memory and earn $ARK as you play the Timeline._
+{% endhint %}

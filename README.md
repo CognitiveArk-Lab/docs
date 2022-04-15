@@ -19,5 +19,5 @@ If you do not yet explore the terra ecosystem, this might be an excellent opport
 {% endhint %}
 
 {% hint style="info" %}
-We encourage you to begin from the [lore](lets-terraform-the-nft-culture/lore.md) to get the hype and feel about CognitiveArk as a project and continue reading until you reach the [reward system](lets-terraform-the-nft-culture/reward-system.md). But anyway, you can always come back here to dig in more 😁
+We encourage you to begin from the [lore](lets-terraform-the-nft-culture/story-and-lore.md) to get the hype and feel about CognitiveArk as a project and continue reading until you reach the [reward system](lets-terraform-the-nft-culture/reward-system.md). But anyway, you can always come back here to dig in more 😁
 {% endhint %}

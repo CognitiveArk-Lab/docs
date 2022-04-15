@@ -16,3 +16,4 @@ Every player has the same opportunity to win the rewards, the time you join our 
 
 Lorem ipsum
 
+### Colony Lottery

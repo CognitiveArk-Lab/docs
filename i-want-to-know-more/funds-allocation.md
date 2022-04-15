@@ -6,28 +6,35 @@ description: In this section, you can learn more about our funds' allocation.
 
 ## Initial Sale ✨
 
-Distributions from minting sales are as follow:
+**Distributions from minting sales are as follow:**
 
 * 70% to Project Wallet.
-  * 80% to Treasury
   * 20% to Operational Funds
+  * 80% to Treasury
 * 2.5% to Reward Pool
 * 2.5% to Angel Protocol
 * 25% to Team.
 
 ## Project Wallet 🚀
 
-Project Wallet will be maintained together by the Colony and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terra-verse.
+Project Wallet will be maintained together by Ark-DAO and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terra-verse.
 
-![](<../.gitbook/assets/Finance - Project Walletv2.jpg>)
+![70% of the minting proceeds will fund Project Wallet](<../.gitbook/assets/Finance - Project Wallet (1).jpg>)
 
 ## Treasury 💵
 
-The funds in the Treasury will be later managed by the community decision (DAO). At first, we will allocate the funds to the Colony Investment Program.
+The first allocation from minting proceeds that arrived in the Treasury will fund the Colony Investment Program (CIP), which Ark-DAO will afterward oversee.
+
+Ark-DAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
+
+* _Reinvest in Colony Investment Program_
+* _Raising Memory floor price_
+* _Boost the Reward Pool_
+* _Boost the Colony Lottery Pool_
 
 ### Colony Investment Program (CIP) 📈
 
-CIP is a yield farming strategy leveraging the Terra DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
+CIP is a yield farming strategy leveraging Terra DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 **The first CIP allocation is as follows:**
 
@@ -38,24 +45,32 @@ CIP is a yield farming strategy leveraging the Terra DeFi ecosystem. With the Co
 _30% from Treasury will be invested in Terra Ecosystem projects that are chosen by the Ark-DAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
-After the first CIP allocation, the Ark-DAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
+Each month CIP yield will be distributed to:
 
-* Reinvest in Colony Investment Program
-* Raising Memory floor price
-* Boost the Reward Pool
-* Boost the Colony Lottery Pool
+* _50% back to the Treasury_
+* _20% Reward Pool_
+* _10% Colony Lottery_
+* _20% Team_
 
 ## Operational Funds💼
 
-![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 3 (1).jpg>)
+![](<../.gitbook/assets/Finance - Operational Funds.jpg>)
 
 It is crucial for the Colony to be able to separate Treasury from Project expenses because we have a long road ahead of us.
 
 We will use the Operational Funds mainly on:&#x20;
 
-* Merch Store!
 * Marketing
 * Development
+* Merch Store!
+
+### Development 🧰
+
+We are here to innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
+
+### Marketing 📡
+
+We will use the Marketing funds to expand our exposure to other communities. The focus will be on media content like videos, images, and collaborations.
 
 ### Merch Store 🛍️
 
@@ -63,52 +78,33 @@ What about having our Merch Store that integrates cryptocurrency as the primary 
 
 We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
 
-### Marketing 📡
-
-We will use the Marketing funds to expand our exposure to other communities. The focus will be on media content like videos, images, and collaborations.
-
-### Development 🧰
-
-We are here to innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
-
 ## Royalty 🧾
 
-The royalties from the secondary NFT marketplace are distributed directly into the[ Staking Pool](../lets-terraform-the-nft-culture/tokenomics.md#staking-pool-distribution), where the Colony can claim the rewards on our Dashboard on the website.
-
-{% hint style="warning" %}
-_Staking rewards will be first distributed after **4 weeks** of the minting phase._
-{% endhint %}
-
-{% hint style="success" %}
-Get a higher share from the staking pools by filling those multiplier slots.&#x20;
-{% endhint %}
+The royalties from the secondary NFT marketplace are distributed directly into the [Reward Pool](../lets-terraform-the-nft-culture/reward-system.md#3.-staking-reward), where the Colony can claim the rewards on our Dashboard on the website.
 
 The royalty distribution based on the secondary marketplace:
 
 <details>
 
-<summary><a href="https://knowhere.art">Knowhere</a> <strong>(5%)</strong></summary>
+<summary><strong></strong><a href="https://randomearth.io/home"><strong>Random Earth</strong></a> <strong>(6%)</strong></summary>
 
-* 4,5% to Project Wallet
-* 0,5% to Team
-
-</details>
-
-<details>
-
-<summary><strong></strong><a href="https://randomearth.io/home"><strong>Random Earth</strong></a> <strong>(5%)</strong></summary>
-
-* 4,5% to Project Wallet
-* 0,5% to Team
+* 2,4% to Project Wallet
+* 1,5% to Reward Pool
+* 0,9% to Angel Protocol
+* 0,6% to Colony Lottery
+* 0,6% to Team
 
 </details>
 
 <details>
 
-<summary><strong></strong><a href="https://marketplace.luart.io"><strong>Luart</strong> </a><strong>(3,5%)</strong></summary>
+<summary><a href="https://knowhere.art">Knowhere</a> <strong>(6%)</strong></summary>
 
-* 3,15% to Project Wallet
-* 0,35% to Team
+* 2,4% to Project Wallet
+* 1,5% to Reward Pool
+* 0,9% to Angel Protocol
+* 0,6% to Colony Lottery
+* 0,6% to Team
 
 </details>
 
