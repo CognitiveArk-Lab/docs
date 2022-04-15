@@ -37,15 +37,13 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 
     Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
 
-## <mark style="color:yellow;">3. Colony Raffle</mark>
-
-Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. _**Ten lucky Colonies**_ will be randomly selected and will get a $UST airdrop.
-
-{% hint style="warning" %}
-The amount of the rewards for each Lottery will be set to a **maximum** **$1,000.00**.
-{% endhint %}
+## <mark style="color:yellow;">3. Colony Lottery Pool</mark>
 
 ### Colony Lottery source of funds:
 
 * 10% from secondary sales Royalties
 * 10% from Colony Investment Program (CIP)
+
+{% hint style="warning" %}
+We will set the initial amount of the rewards for each Lottery to a **maximum** **$1,000.00**. If more than $1,000.00 is in the Pool, the funds will carry on to the next raffle.
+{% endhint %}
