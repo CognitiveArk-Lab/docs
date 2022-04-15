@@ -17,7 +17,7 @@ Distributions from minting sales are as follow:
 
 ## Project Wallet 🚀
 
-Project Wallet will be maintained together by the Colony and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terraverse.
+Project Wallet will be maintained together by the Colony and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terra-verse.
 
 ![](<../.gitbook/assets/Finance - Project Walletv2.jpg>)
 
@@ -27,23 +27,23 @@ The funds in the Treasury will be later managed by the community decision (DAO).
 
 ### Colony Investment Program (CIP) 📈
 
-With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. So use your DeFi knowledge to make a proposal and vote for the best strategy suggestion to expand our Colony economy!
+CIP is a yield farming strategy leveraging the Terra DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 **The first CIP allocation is as follows:**
 
-* **70% into** [**Anchor**](https://app.anchorprotocol.com/earn) **to receive \~19,47 APY in $UST (Locked 2 Years).**
+* **70% into** [**Anchor**](https://app.anchorprotocol.com/earn) **to receive \~19,47 APY in $UST (Locked for 2 Years).**
 * **30% into the community chosen projects on Terra.**
 
 {% hint style="info" %}
-_30% from Treasury will be invested in Terra Ecosystem projects that are chosen by the colony. The Colony will be able to submit a proposal after our initial minting phase is over._
+_30% from Treasury will be invested in Terra Ecosystem projects that are chosen by the Ark-DAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
-After the first CIP allocation, the ARK DAO will have the power to choose how the Colony will spend the Treasury. Some _ideas_ but not limited to:
+After the first CIP allocation, the Ark-DAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
 
 * Reinvest in Colony Investment Program
 * Raising Memory floor price
-* Boost the Staking Pool
-* Boost the Gamification rewards
+* Boost the Reward Pool
+* Boost the Colony Lottery Pool
 
 ## Operational Funds💼
 
