@@ -2,12 +2,6 @@
 
 Our goal is to build a sustainable community that encourages the Memory holder to play the game to earn more rewards. There are three primary rewards from our gamification:
 
-1. [Biweekly Reward:](reward-system.md#2.-biweekly-reward)
-   * Legendary Memory.
-   * $UST.
-2. [Comic Chapter Airdrops.](reward-system.md#3.-comic-page-airdrops)
-3. [Staking Reward](reward-system.md#1.-staking-reward)
-
 ## <mark style="color:yellow;">1. Reward Pool</mark>
 
 Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly Leaderboards will receive a portion from the Reward Pool.&#x20;
@@ -23,18 +17,18 @@ _2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward
 * 🥉 Top 4-5: 10%
 * 🏅 Top 6-10: 6%
 
-### Reward Pool source of funds:
-
-* 25% Royalty from secondary sales
-* 20% from Colony Investment Program (CIP)
-
 {% hint style="warning" %}
 The amount of the rewards for each cycle can be higher depending on the influx from the source funds.
 {% endhint %}
 
-## <mark style="color:yellow;">1. Biweekly Reward</mark>
+### Reward Pool source of funds:
 
-Every two weeks, we will announce the winner to receive:
+* 25% from secondary sales Royalties
+* 20% from Colony Investment Program (CIP)
+
+## <mark style="color:yellow;">2. Timeline Reward</mark>
+
+Every two weeks, we will conclude the Timeline cycle and announce the winner to receive:
 
 *   #### &#x20;<mark style="color:purple;">Legendary Memory</mark>
 
@@ -42,24 +36,16 @@ Every two weeks, we will announce the winner to receive:
 *   <mark style="color:purple;">**Comic Chapter Airdrops**</mark>
 
     Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
-*
 
-{% hint style="info" %}
-The Biweekly Reward will be coming from (Colony Investment Program). More info about it [here](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip).
-{% endhint %}
+## <mark style="color:yellow;">3. Colony Raffle</mark>
 
-## <mark style="color:yellow;">2. Comic Chapter Airdrops</mark>
-
-
-
-
+Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. _**Ten lucky Colonies**_ will be randomly selected and will get a $UST airdrop.
 
 {% hint style="warning" %}
-_Staking rewards will be first distributed after **4 weeks** of the minting phase._
+The amount of the rewards for each Lottery will be set to a **maximum** **$1,000.00**.
 {% endhint %}
 
-{% hint style="success" %}
-Get a higher share from the staking pools by filling those multiplier panels.&#x20;
-{% endhint %}
+### Colony Lottery source of funds:
 
-<mark style="color:yellow;"></mark>
+* 10% from secondary sales Royalties
+* 10% from Colony Investment Program (CIP)
