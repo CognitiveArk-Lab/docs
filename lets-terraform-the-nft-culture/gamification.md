@@ -26,13 +26,7 @@ Colony Lottery will be happening one week after each Timeline cycle ends. So the
 _**Ten lucky Colonies**_ will be randomly selected and will get a $UST airdrop.
 {% endhint %}
 
-**Price of 1 CLT = 10 $ARK**
-
-> **1 CLT = 10 $ARK**
-
-```
-1 CLT = 10 $ARK
-```
+> _Colony Lottery Ticket price will be set to **1 CLT = 10 $ARK**_
 
 {% hint style="info" %}
 There is no correct answer on when you will spend your $ARK for CLT. You can always participate in each raffle or skip 1 Colony Lottery to get a better chance at the next one. It will depend on your strategy.
