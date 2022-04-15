@@ -47,7 +47,7 @@ After the first CIP allocation, the ARK DAO will have the power to choose how th
 
 ## Operational Funds💼
 
-![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 3.jpg>)
+![](<../.gitbook/assets/Finance - DOCS ALLOCATION A 3 (1).jpg>)
 
 It is crucial for the Colony to be able to separate Treasury from Project expenses because we have a long road ahead of us.
 
