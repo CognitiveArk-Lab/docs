@@ -14,6 +14,7 @@ CognitiveArk initiated. The Ark will soon release 3050 scattered memories and po
 
 All of the gen0 memories will possess these fundamental utilities:
 
+* Exclusive, limited supply
 * Memory holders can play the gamification to earn rewards
 * Memory can be staked to earn $ARK
 * Ability to become a member of the Colony council for Ark-DAO
