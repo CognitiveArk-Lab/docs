@@ -1,5 +1,5 @@
 ---
-description: The First NFT 2.0 Project on Terra Blockchain!
+description: A unique NFT art style with a straightforward utility on Terra.
 cover: .gitbook/assets/Gitbook Banner3.jpg
 coverY: 0
 ---
@@ -8,7 +8,7 @@ coverY: 0
 
 ## What is CognitiveArk?
 
-_**CognitiveArk**_ is a multidimensional story-based NFT attempting to change the NFT art landscape with its unique gamification. Not just that, we are also aiming to terraform the NFT Culture with our implementation of **NFT 2.0**, opening up numerous unexplored possibilities that are once holding us (creators) back. In addition, this doc will provide more details about _lore, tokenomics, gamification mechanics_, and the _reward system_ of **CognitiveArk** NFTs.
+_**CognitiveArk**_ is a multidimensional story-based NFT attempting to change the NFT art landscape with its straightforward gamification. Not just that, we are also aiming to terraform the NFT Culture with our unique Art style, opening up numerous unexplored possibilities that are once holding us (creators) back. In addition, this doc will provide more details about _lore, tokenomics, gamification mechanics_, and the _reward system_ of **CognitiveArk** NFTs.
 
 ## Why Terra 🌔 blockchain?
 
@@ -19,5 +19,5 @@ If you do not yet explore the terra ecosystem, this might be an excellent opport
 {% endhint %}
 
 {% hint style="info" %}
-We encourage you to begin from the [lore](lets-terraform-the-nft-culture/lore.md) to get the hype and feel about CognitiveArk as a project and continue reading until you reach the [reward system](lets-terraform-the-nft-culture/reward-system.md). But anyway, you can always come back here to dig in more 😁.
+We encourage you to begin from the [lore](lets-terraform-the-nft-culture/lore.md) to get the hype and feel about CognitiveArk as a project and continue reading until you reach the [reward system](lets-terraform-the-nft-culture/reward-system.md). But anyway, you can always come back here to dig in more 😁
 {% endhint %}
