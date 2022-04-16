@@ -2,21 +2,33 @@
 
 ## Introduction
 
-We are reshaping the NFT landscape through our new gamification. Many NFT projects have evolved and adopted the play-to-earn (P2E) system. Who doesn't want to earn while playing games, right? It quickly became a BUZZWORD to create exposure for the projects, but unfortunately, most of them failed as it is not sustainable for the long term. The concept of making a P2E game is revolutionary. However, we need the proper execution to make the game sustainable. CognitiveArk is developed to become a part of this revolutionary movement.
+To understand what we aim to do, we need to step back and analyze the gaming industry that we are familiar with. Most centralized MMORPG games have their economy thrive because they do not allow the players to cash out or sell the in-game currency directly to other players. To put it in another way, they do not own the assets. Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground.
 
-To understand what we aim to do, we need to step back and analyze the gaming industry that we are familiar with. Most centralized MMORPG games have their economy thrive because they do not allow the players to cash out or sell the in-game currency directly to other players. To put it in another way, they do not own the assets. Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost  too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground. To alter this behavior, we incentivize players to play the game instead of staking their NFT to earn ERC20 tokens.
+Here every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors!&#x20;
 
-{% hint style="success" %}
-#### Instead of a simple Airdrop reward to a random NFT holder, we encourage the players/investors to play the game to get rewarded!
-
-Every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors! This will sustain our project and create an authentic community that plays around the concepts and values the work we put into it!
+{% hint style="info" %}
+This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!
 {% endhint %}
 
 ## Mechanics
 
-Lorem ipsum
+CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holder for really playing and a premium reward on top for scoring the most points. The game is straightforward:
+
+1. Stake your Memory on the empty panel on the Timeline.
+2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
+3. Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain.
+4. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
+5. To change the narrative bubble or the position, you need to unstake your Memory.
+
+The Team will update the new Timeline on the website.&#x20;
+
+### Leaderboard
+
+The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
 
 ### The Timeline
+
+One cycle of Timeline will last for two weeks. After that, the Lore Master will assess all players' interpretations and give up to 20 points to the closest accurate narration.
 
 ### Colony Lottery
 
