@@ -9,8 +9,8 @@ description: In this section, you can learn more about our funds' allocation.
 **Distributions from minting sales are as follow:**
 
 * 70% to Project Wallet.
-  * 20% to Operational Funds
-  * 80% to Treasury
+  * _20% to Operational Funds_
+  * _80% to Treasury_
 * 2.5% to Reward Pool
 * 2.5% to Charity - Angel Protocol
 * 25% to Team.
@@ -56,12 +56,10 @@ Each month CIP yield will be distributed to:
 
 ![](<../.gitbook/assets/Finance - Operational Funds.jpg>)
 
-It is crucial for the Colony to be able to separate Treasury from Project expenses because we have a long road ahead of us.
+Due to our commitment to sustainability, we keep operational funds separated from Colony Treasury. We will use the Operational Funds mainly on:&#x20;
 
-We will use the Operational Funds mainly on:&#x20;
-
-* Marketing
 * Development
+* Marketing
 * Merch Store!
 
 ### Development 🧰
