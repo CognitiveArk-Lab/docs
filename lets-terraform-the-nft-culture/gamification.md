@@ -16,9 +16,12 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 
 1. &#x20;Stake your Memory on the empty panel on the Timeline.
 2. &#x20;Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
-3. &#x20;Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain.
-4. &#x20;After you stake your Memory, your Memory will be locked for two days before you can unstake it.
-5. &#x20;To change the narrative bubble or the position, you need to unstake your Memory.
+3. &#x20;After you stake your Memory, your Memory will be locked for two days before you can unstake it.
+4. &#x20;To change the narrative bubble or the position, you need to unstake your Memory.
+
+{% hint style="success" %}
+Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain.
+{% endhint %}
 
 The Team will update the new Timeline on the website.&#x20;
 
