@@ -47,3 +47,5 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 {% hint style="warning" %}
 We will set the initial amount of the rewards for each Lottery to a **maximum** **$1,000.00**. If more than $1,000.00 is in the Pool, the funds will carry on to the next raffle.
 {% endhint %}
+
+_more about_ [_Colony Lottery_](gamification.md#colony-lottery)_._
