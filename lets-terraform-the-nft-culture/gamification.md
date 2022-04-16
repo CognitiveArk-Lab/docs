@@ -10,7 +10,7 @@ Here every player has the same opportunity to win the rewards, the time you join
 _This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
 {% endhint %}
 
-## Mechanics
+## Game Mechanics
 
 CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game is straightforward:
 
@@ -40,7 +40,7 @@ One cycle of Timeline will last for two weeks. After that, the Lore Master will 
 
 The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
 
-### Colony Lottery
+## Colony Lottery
 
 Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. Each Colony can swap their $ARK for Colony Lottery Ticket (CLT). There is currently no limit on how many CLT each wallet can use for each raffle.
 
