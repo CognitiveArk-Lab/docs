@@ -23,8 +23,8 @@ The amount of the rewards for each cycle can be higher depending on the influx f
 
 ### Reward Pool source of funds:
 
-* 25% from secondary sales Royalties
-* 20% from Colony Investment Program (CIP)
+* 25% from secondary sales [Royalties](../i-want-to-know-more/funds-allocation.md#royalty)
+* 20% from [Colony Investment Program (CIP)](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip)
 
 ## <mark style="color:yellow;">2. Timeline Reward</mark>
 
@@ -41,8 +41,8 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 
 ### Colony Lottery source of funds:
 
-* 10% from secondary sales Royalties
-* 10% from Colony Investment Program (CIP)
+* 10% from secondary sales [Royalties](../i-want-to-know-more/funds-allocation.md#royalty)
+* 10% from [Colony Investment Program (CIP)](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="warning" %}
 We will set the initial amount of the rewards for each Lottery to a **maximum** **$1,000.00**. If more than $1,000.00 is in the Pool, the funds will carry on to the next raffle.

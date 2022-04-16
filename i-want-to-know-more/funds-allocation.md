@@ -12,7 +12,7 @@ description: In this section, you can learn more about our funds' allocation.
   * 20% to Operational Funds
   * 80% to Treasury
 * 2.5% to Reward Pool
-* 2.5% to Angel Protocol
+* 2.5% to Charity - Angel Protocol
 * 25% to Team.
 
 ## Project Wallet 🚀
