@@ -10,7 +10,7 @@ Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly L
 _2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward to be distributed for the first month of launching. More about it_ [_here_](../i-want-to-know-more/funds-allocation.md#initial-sale)_._
 {% endhint %}
 
-### Bi-weekly winners allocation:
+### Timeline winners allocation:
 
 * 🥇 Top 1: 20%
 * 🥈 Top 2-3: 15%
