@@ -12,23 +12,30 @@ This mechanism will allow us to sustain the project and create an authentic comm
 
 ## Mechanics
 
-CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holder for really playing and a premium reward on top for scoring the most points. The game is straightforward:
+CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game is straightforward:
 
-1. Stake your Memory on the empty panel on the Timeline.
-2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
-3. Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain.
-4. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
-5. To change the narrative bubble or the position, you need to unstake your Memory.
+1. &#x20;Stake your Memory on the empty panel on the Timeline.
+2. &#x20;Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
+3. &#x20;Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain.
+4. &#x20;After you stake your Memory, your Memory will be locked for two days before you can unstake it.
+5. &#x20;To change the narrative bubble or the position, you need to unstake your Memory.
 
 The Team will update the new Timeline on the website.&#x20;
-
-### Leaderboard
-
-The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
 
 ### The Timeline
 
 One cycle of Timeline will last for two weeks. After that, the Lore Master will assess all players' interpretations and give up to 20 points to the closest accurate narration.
+
+### Points
+
+* 10 pts for every correct narrative bubble
+* 10 pts for every correct bubble position
+* 1-20 pts for special panel
+* 1-20 pts from story interpretations
+
+### Leaderboard
+
+The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
 
 ### Colony Lottery
 
