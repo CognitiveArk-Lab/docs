@@ -1,5 +1,4 @@
 ---
-description: A unique NFT art style with a straightforward utility on Terra.
 cover: .gitbook/assets/Gitbook Banner3.jpg
 coverY: 0
 ---
@@ -12,10 +11,10 @@ _**CognitiveArk**_ is a multidimensional story-based NFT attempting to change th
 
 ## Why Terra 🌔 blockchain?
 
-We are a big believer in innovation, and we consider that what [terra.money](https://www.terra.money) as a blockchain is accomplishing right now will change the future of DeFi and the future of banking. The ecosystem is a birthplace for algorithmic decentralized stablecoin _$UST_, it also houses many high-quality protocols, and CognitiveArk is proud to be a part of the ecosystem. The number of unique addresses/wallets is growing steadily every month. The strong developer community combined with the ever-growing adoption and the support from #LUNAtics are one of the reasons we deploy our contracts on Terra. We are excited to be the first NFT 2.0 project on Terra!
+We are a big believer in innovation, and we consider that what [terra.money](https://www.terra.money) as a blockchain is accomplishing right now will change the future of DeFi and the future of banking. The ecosystem is a birthplace for algorithmic decentralized stablecoin _$UST_, it also houses many high-quality protocols, and CognitiveArk is proud to be a part of the ecosystem. The number of unique addresses/wallets is growing steadily every month. The strong developer community combined with the ever-growing adoption and the support from #LUNAtics are one of the reasons we deploy our contracts on Terra.
 
 {% hint style="success" %}
-If you do not yet explore the terra ecosystem, this might be an excellent opportunity to try it out! Check out our [FAQ](i-want-to-know-more/faq.md) for quick information _<mark style="color:purple;">#probablynothing</mark><mark style="color:green;">👀</mark>_
+If you are not yet familiar with the Terra ecosystem, this might be an excellent opportunity for you to explore with us! Check out our [FAQ](i-want-to-know-more/faq.md) for quick information _<mark style="color:purple;">#probablynothing</mark><mark style="color:green;">👀</mark>_
 {% endhint %}
 
 {% hint style="info" %}
