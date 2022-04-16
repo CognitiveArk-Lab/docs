@@ -18,7 +18,7 @@ _2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward
 * 🏅 Top 6-10: 6%
 
 {% hint style="warning" %}
-The amount of the rewards for each cycle can be higher depending on the influx from the source funds.
+_The amount of the rewards for each cycle can be higher depending on the influx from the source funds._
 {% endhint %}
 
 ### Reward Pool source of funds:
@@ -45,7 +45,7 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 * 10% from [Colony Investment Program (CIP)](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="warning" %}
-We will set the initial amount of the rewards for each Lottery to a **maximum** **$1,000.00**. If more than $1,000.00 is in the Pool, the funds will carry on to the next raffle.
+_We will set the initial amount of the rewards for each Lottery to a **maximum**  **$1,000.00**. If more than $1,000.00 is in the Pool, the funds will carry on to the next raffle._
 {% endhint %}
 
 _more about_ [_Colony Lottery_](gamification.md#colony-lottery)_._

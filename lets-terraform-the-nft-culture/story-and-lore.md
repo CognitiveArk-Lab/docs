@@ -24,7 +24,7 @@ One of the founders of the Ark committed an act of treason that humanity had pro
 
 
 {% hint style="info" %}
-**Lore Update**: Every week, the lore will be updated on Cognitive Ark Discord.\
-\
-**Story Update**: Story progression will be revealed after the conclusion of each gamification Timeline (2 weeks) and will be updated on Cognitive Ark official website and Discord.
+_**Lore Update**: Every week, the lore will be updated on Cognitive Ark Discord._\
+__\
+___**Story Update**: Story progression will be revealed after the conclusion of each gamification Timeline (2 weeks) and will be updated on Cognitive Ark official website and Discord._
 {% endhint %}

@@ -7,7 +7,7 @@ To understand what we aim to do, we need to step back and analyze the gaming ind
 Here every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors!&#x20;
 
 {% hint style="info" %}
-This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!
+_This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
 {% endhint %}
 
 ## Mechanics
@@ -20,7 +20,7 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 4. &#x20;To change the narrative bubble or the position, you need to unstake your Memory.
 
 {% hint style="success" %}
-Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain.
+_Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain._
 {% endhint %}
 
 The Team will update the new Timeline on the website.&#x20;
@@ -45,13 +45,13 @@ The Leaderboard will show the current points and the total points from previous 
 Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. Each Colony can swap their $ARK for Colony Lottery Ticket (CLT). There is currently no limit on how many CLT each wallet can use for each raffle.
 
 {% hint style="success" %}
-_**Ten lucky Colonies**_ will be randomly selected and will get a $UST airdrop.
+_**Ten lucky Colonies** will be randomly selected and will get a $UST airdrop._
 {% endhint %}
 
 > _Colony Lottery Ticket price will be set to **1 CLT = 10 $ARK**_
 
 {% hint style="info" %}
-There is no correct answer on when you will spend your $ARK for CLT. You can always participate in each raffle or skip 1 Colony Lottery to get a better chance at the next one. It will depend on your strategy.
+_There is no correct answer on when you will spend your $ARK for CLT. You can always participate in each raffle or skip 1 Colony Lottery to get a better chance at the next one. It will depend on your strategy._
 {% endhint %}
 
 Learn more about the Colony Lottery Pools in [Reward System](reward-system.md).
