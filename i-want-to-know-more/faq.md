@@ -34,7 +34,7 @@ If you want to **bridge** your assets from other Blockchain, you can skip to par
 #### Download your fresh Terra Wallet and set it up :closed\_lock\_with\_key:
 
 * [Terra Station](https://docs.terra.money/docs/learn/terra-station/download/README.html) :satellite\_orbital:
-* [Falcon Wallet](https://falconwallet.app)
+* [Leap Wallet](https://leapwallet.io) 🐸
 
 </details>
 
@@ -44,7 +44,7 @@ If you want to **bridge** your assets from other Blockchain, you can skip to par
 
 * Open your Terra Station
 
-![](<../.gitbook/assets/image (2).png>)
+<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 * Choose your source of funds.
 

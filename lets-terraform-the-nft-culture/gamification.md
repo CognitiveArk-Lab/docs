@@ -58,6 +58,8 @@ Learn more about the Colony Lottery Pools in [Reward System](reward-system.md).
 
 ## **TL;DR**
 
+Too lazy; didn't read 🦉
+
 * Immerse yourself in the storyline
 * Stake your Memory in the Timeline
 * Earn as many points as possible
