@@ -55,3 +55,11 @@ There is no correct answer on when you will spend your $ARK for CLT. You can alw
 {% endhint %}
 
 Learn more about the Colony Lottery Pools in [Reward System](reward-system.md).
+
+## **TL;DR**
+
+* Immerse yourself in the storyline
+* Stake your Memory in the Timeline
+* Earn as many points as possible
+* Earn Rewards
+* Repeat 🔁
