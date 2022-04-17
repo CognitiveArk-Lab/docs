@@ -26,15 +26,13 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 
 #### 4. To change the narrative bubble or the position, you need to unstake your Memory.
 
-![](<../.gitbook/assets/Gamification - Frame 1 (2).gif>)
+The Team will update the new Timeline on the website.
+
+### The Timeline
 
 {% hint style="success" %}
 _Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain._
 {% endhint %}
-
-The Team will update the new Timeline on the website.
-
-### The Timeline
 
 One cycle of Timeline will last for two weeks. After that, the Lore Master will assess all players' interpretations and give up to 20 points to the closest accurate narration.
 
