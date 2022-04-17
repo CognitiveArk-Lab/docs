@@ -38,8 +38,8 @@ One cycle of Timeline will last for two weeks. After that, the Lore Master will 
 
 * 10 pts for every correct narrative bubble
 * 10 pts for every correct bubble position
-* 1-20 pts for special panel
-* 1-20 pts from story interpretations
+* 10 pts for special panel
+* 1-30 pts from story interpretations
 
 ### Leaderboard
 
