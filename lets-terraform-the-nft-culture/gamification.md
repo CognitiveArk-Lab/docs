@@ -20,6 +20,8 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 
 #### 2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
 
+![](<../.gitbook/assets/Gamification - Frame 1 (3).gif>)
+
 #### 3. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
 
 #### 4. To change the narrative bubble or the position, you need to unstake your Memory.
