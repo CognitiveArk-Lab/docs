@@ -14,10 +14,15 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game is straightforward:
 
-1. Stake your Memory on the empty panel on the Timeline. ![](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
-2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
-3. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
-4. To change the narrative bubble or the position, you need to unstake your Memory.
+#### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
+
+![](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
+
+#### 2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
+
+#### 3. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
+
+#### 4. To change the narrative bubble or the position, you need to unstake your Memory.
 
 {% hint style="success" %}
 _Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain._
