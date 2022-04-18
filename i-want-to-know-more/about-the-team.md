@@ -22,7 +22,7 @@ Globally distributed team. We are adopting different cultures and assembling the
 
 (FOUNDER & CFO)
 
-A born entrepreneur. Not just a leader, but a builder, with an instinctive talent in understanding the market. His background in Business IT helps him find innovative ways to connect the digital world with conventional finance.
+A born entrepreneur. In addition to leadership skills, he is also a builder with an instinctive talent for understanding the market. His background in Business IT helps him find innovative ways to connect the digital world with conventional finance.&#x20;
 
 ### **Now|here.man**&#x20;
 
