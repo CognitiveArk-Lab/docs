@@ -12,29 +12,30 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 ## Getting Started
 
-Our gamification will based on the Story and Lore of The Cognitive Ark.\
-The story will progress after the Memory Holder can reveal hidden mysteries and plot.
+Our gamification will be based on the Story and Lore of The Cognitive Ark.\
+The story will progress after the players can reveal hidden mysteries and plots.
 
-## The Memory
+The gamification system will be designed based on the stories and lore of the Cognitive Ark. The memory holder has to interpret the current Timeline and reveal the plot so the story can progress.
 
-CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will play a role in the main story. \
-\
-There are 4 types of Memory, based on its rarity:
+### The Memory
 
-* Memory of The Present (_Rare_)
-* Memory of The Past (_Very Rare_)
-* Memory of The Future (_Epic_)
+CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will get exclusive rights to play the game. \
+There are four rarities based on four types of Memory:
+
 * Unknown Memories (_Common_)
+* Memory of The Present (_Rare_)
+* Memory of The Past (_Mystic_)
+* Memory of The Future (_Epic_)
 
 ![](../.gitbook/assets/Memory.png)
 
-## The Timeline
+### The Timeline
 
-![(This is not the actual Timeline)](../.gitbook/assets/Timeline.png)
+![not the actual Timeline](../.gitbook/assets/Timeline.png)
 
 ## Game Mechanics
 
-CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics is straightforward:
+CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics are straightforward:
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
 
