@@ -12,7 +12,7 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 ## Game Mechanics
 
-CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game is straightforward:
+CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics is straightforward:
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
 
@@ -30,11 +30,11 @@ The Team will update the new Timeline on the website.
 
 ### The Timeline
 
+One cycle of Timeline will last for two weeks. Each Timeline will have one or more empty panels. The panels will feature a side quest that gives players bonus points and $ARK multiplier. After the cycles ended, the Lore Master will assess all players' interpretations and give up to 30 points to the closest accurate narration.
+
 {% hint style="success" %}
 _Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain._
 {% endhint %}
-
-One cycle of Timeline will last for two weeks. After that, the Lore Master will assess all players' interpretations and give up to 20 points to the closest accurate narration.
 
 ### Points
 
