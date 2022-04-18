@@ -12,9 +12,6 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 ## Getting Started
 
-Our gamification will be based on the Story and Lore of The Cognitive Ark.\
-The story will progress after the players can reveal hidden mysteries and plots.
-
 The gamification system will be designed based on the stories and lore of the Cognitive Ark. The memory holder has to interpret the current Timeline and reveal the plot so the story can progress.
 
 ### The Memory
