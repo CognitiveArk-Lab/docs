@@ -52,4 +52,4 @@ Critical thinker that has extensive experience as a Senior Software Engineer. Sp
 
 COMMUNITY MANAGER
 
-Lorem Ipsum
+Passionate in communication studies, art and culture. Keen problem solver. Believe in the importance of valid principles for every decision-making.
