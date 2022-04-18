@@ -5,8 +5,8 @@
 ## 🌏 LETS TERRAFORM THE NFT CULTURE
 
 * [📜 Story and Lore](lets-terraform-the-nft-culture/story-and-lore.md)
-* [🪙 Tokenomics](lets-terraform-the-nft-culture/tokenomics.md)
 * [🎮 Gamification](lets-terraform-the-nft-culture/gamification.md)
+* [🪙 Tokenomics](lets-terraform-the-nft-culture/tokenomics.md)
 * [🎯 Reward System](lets-terraform-the-nft-culture/reward-system.md)
 
 ## 🤓 I WANT TO KNOW MORE

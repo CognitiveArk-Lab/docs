@@ -10,6 +10,10 @@ Here every player has the same opportunity to win the rewards, the time you join
 _This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
 {% endhint %}
 
+## Getting Started
+
+CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will play a role in the main story. The story consists of many **Timelines,** which you can stake your Memory to influence the lore.
+
 ## Game Mechanics
 
 CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics is straightforward:
