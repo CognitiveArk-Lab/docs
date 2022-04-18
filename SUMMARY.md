@@ -14,6 +14,7 @@
 * [🏛 Funds Allocation](i-want-to-know-more/funds-allocation.md)
 * [🧑🚀 About the team](i-want-to-know-more/about-the-team.md)
 * [🙋 FAQ](i-want-to-know-more/faq.md)
+* [📖 Glossary](i-want-to-know-more/glossary.md)
 
 ***
 
