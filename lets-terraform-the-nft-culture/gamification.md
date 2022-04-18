@@ -12,9 +12,14 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 ## Getting Started
 
-To have the whole experience, we recommend you to merge into the world of Cognitive Ark and be a part of the storytelling.
+CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will play a role in the main story.&#x20;
 
-CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will play a role in the main story. The story consists of many **Timelines,** which you can stake your Memory to influence the lore.
+![Your minted NFT (Memory)](<../.gitbook/assets/TEST\_02\_Memory of The Present.jpg>)
+
+The story consists of many **Timelines,** which you can stake your Memory to influence the lore.
+
+![Comic Template for Gamification (Timeline)
+(This is not the actual Timeline)](<../.gitbook/assets/ComicTemplate Exp2.png>)
 
 ## Game Mechanics
 
