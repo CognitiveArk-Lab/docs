@@ -16,7 +16,9 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
 
-![](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
+There will be multiple Timelines for the players to stake their Memory. Every player can choose from the available Timeline to fit their strategy.
+
+![Tono is staking his Memory on Timeline#1](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
 
 #### 2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
 

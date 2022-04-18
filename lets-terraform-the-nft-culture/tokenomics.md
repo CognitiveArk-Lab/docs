@@ -2,7 +2,7 @@
 
 ## Cognitive Ark Gen0 (The Genesis)
 
-CognitiveArk initiated. The Ark will soon release **3050** scattered memories and populate the Terra Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
+CognitiveArk gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate the Terra Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
 
 ![](<../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
 
@@ -12,7 +12,7 @@ CognitiveArk initiated. The Ark will soon release **3050** scattered memories an
 
 ### Utilities
 
-All of the gen0 memories will possess these fundamental utilities:
+All of the gen0 **Memory** will possess these fundamental utilities:
 
 * Exclusive, limited supply
 * Memory holders can play the gamification to earn rewards
