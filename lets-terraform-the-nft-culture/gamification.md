@@ -12,22 +12,31 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 ## Getting Started
 
-CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will play a role in the main story.&#x20;
+Our gamification will based on the Story and Lore of The Cognitive Ark.\
+The story will progress after the Memory Holder can reveal hidden mysteries and plot.
 
-![Your minted NFT (Memory)](<../.gitbook/assets/TEST\_02\_Memory of The Present.jpg>)
+## The Memory
 
-The story consists of many **Timelines,** which you can stake your Memory to influence the lore.
+CognitiveArk gen0 NFT is called **Memory.** As a Memory holder, you will play a role in the main story. \
+\
+There are 4 types of Memory, based on its rarity:
 
-![Comic Template for Gamification (Timeline)
-(This is not the actual Timeline)](<../.gitbook/assets/ComicTemplate Exp2.png>)
+* Memory of The Present (_Rare_)
+* Memory of The Past (_Very Rare_)
+* Memory of The Future (_Epic_)
+* Unknown Memories (_Common_)
+
+![](../.gitbook/assets/Memory.png)
+
+## The Timeline
+
+![(This is not the actual Timeline)](../.gitbook/assets/Timeline.png)
 
 ## Game Mechanics
 
 CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics is straightforward:
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
-
-There will be multiple Timelines for the players to stake their Memory. Every player can choose from the available Timeline to fit their strategy.
 
 ![Tono is staking his Memory on Timeline#1](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
 
@@ -41,7 +50,7 @@ There will be multiple Timelines for the players to stake their Memory. Every pl
 
 The Team will update the new Timeline on the website.
 
-### The Timeline
+### Timeline Cycle
 
 One cycle of Timeline will last for two weeks. Each Timeline will have one or more empty panels. The panels will feature a side quest that gives players bonus points and $ARK multiplier. After the cycles ended, the Lore Master will assess all players' interpretations and give up to 30 points to the closest accurate narration.
 
