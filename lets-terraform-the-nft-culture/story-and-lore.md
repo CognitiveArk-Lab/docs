@@ -28,3 +28,7 @@ _**Lore Update**: Every week, the lore will be updated on Cognitive Ark Discord.
 __\
 ___**Story Update**: Story progression will be revealed after the conclusion of each gamification Timeline (2 weeks) and will be updated on Cognitive Ark official website and Discord._
 {% endhint %}
+
+{% hint style="success" %}
+**Cognitive Ark NFT** emphasizes the narrative story and its lore. To have the whole experience, we recommend you to merge the world of Cognitive Ark and be a part of the storytelling. See _**gamification**_ to learn more about your role in the story.
+{% endhint %}
