@@ -12,10 +12,10 @@ _2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward
 
 ### Timeline winners allocation:
 
-* 🏆 Top 1: 20%
-* 🥇 Top 2-3: 15%
+* 🏆 Top 1: 15%
+* 🥇 Top 2-3: 12,5%
 * 🥈 Top 4-5: 10%
-* 🥉 Top 6-10: 6%
+* 🥉 Top 6-10: 8%
 
 {% hint style="warning" %}
 _The amount of the rewards for each cycle can be higher depending on the influx from the source funds._

@@ -4,9 +4,9 @@
 
 To understand what we aim to do, we need to step back and analyze the gaming industry that we are familiar with. Most centralized MMORPG games have their economy thrive because they do not allow the players to cash out or sell the in-game currency directly to other players. To put it in another way, they do not own the assets.&#x20;
 
-Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground.&#x20;
+Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground.
 
-Here in **CognitiveArk**, every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors!
+Here every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors!
 
 {% hint style="info" %}
 _This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
@@ -48,11 +48,11 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 
 #### 4. To change the narrative bubble or the position, you need to unstake your Memory.
 
-The Team will update the new Timeline on the website by the end of each cycle.
+The Team will update the new Timeline on the website.
 
 ### Timeline Cycle
 
-**One cycle of Timeline will last for two weeks**. Each Timeline will have one or more empty panels. The panels will feature a side quest that gives players bonus points and $ARK multiplier. After the cycles ended, the Lore Master will assess all players' interpretations and give up to 30 points to the closest accurate narration.
+One cycle of Timeline will last for two weeks. Each Timeline will have one or more empty panels. The panels will feature a side quest that gives players bonus points and $ARK multiplier. After the cycles ended, the Lore Master will assess all players' interpretations and give up to 30 points to the closest accurate narration.
 
 {% hint style="success" %}
 _Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain._
