@@ -48,7 +48,7 @@ CognitiveArk NFT has a different approach to P2E. We allocate a considerable rew
 
 #### 4. To change the narrative bubble or the position, you need to unstake your Memory.
 
-The Team will update the new Timeline on the website.
+The Team will update the new Timeline on the website by the end of each cycle.
 
 ### Timeline Cycle
 
