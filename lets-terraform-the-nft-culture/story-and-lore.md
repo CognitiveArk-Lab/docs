@@ -20,6 +20,11 @@ _The Cognitive Ark_ was a device capable of transferring human consciousness int
 In the Ark, those who survived the procedure would be granted a greater and higher knowledge of existence, downloading numerous probabilities that reality could offer. Many had tried, and many had failed. Yet, the survivors were given the fruit of immortality, able to preserve their consciousness through transference at will."\
 
 
+![Mothership "Messiah" blueprint](<../.gitbook/assets/MESSIAH Blueprint V.01.png>)
+
+In the 22nd century, the Earth is no longer a habitable place for a living being due to a virus outbreak that mass genocide most of the earthlings (Humans and non-humans alike).\
+As the Earth started to lose its life force and resources, the remaining human beings were forced to leave the planet to search for another world to continue to exist. Thus the mothership "Messiah" was created. With the "Messiah", humans ventured into endless space."
+
 {% hint style="info" %}
 _**Lore Update**: The lore will be updated on Cognitive Ark Discord every week._\
 __\
