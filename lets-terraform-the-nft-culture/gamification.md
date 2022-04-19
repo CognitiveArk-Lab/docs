@@ -2,7 +2,9 @@
 
 ## Introduction 👋
 
-To understand what we aim to do, we need to step back and analyze the gaming industry that we are familiar with. Most centralized MMORPG games have their economy thrive because they do not allow the players to cash out or sell the in-game currency directly to other players. To put it in another way, they do not own the assets. Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground.
+To understand what we aim to do, we need to step back and analyze the gaming industry that we are familiar with. Most centralized MMORPG games have their economy thrive because they do not allow the players to cash out or sell the in-game currency directly to other players. To put it in another way, they do not own the assets.&#x20;
+
+Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground.
 
 Here every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors!
 
@@ -26,7 +28,7 @@ There are four rarities based on four types of Memory:
 
 ![](../.gitbook/assets/Memory.png)
 
-### The Timeline
+### The Timeline (Comic Template)
 
 ![not the actual Timeline](../.gitbook/assets/Timeline.png)
 

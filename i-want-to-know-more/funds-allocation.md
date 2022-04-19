@@ -17,7 +17,11 @@ description: In this section, you can learn more about our funds' allocation.
 
 ## Project Wallet 🚀
 
-Project Wallet will be maintained together by Ark-DAO and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony. In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terra-verse.
+Project Wallet will be maintained together by Ark-DAO and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
+
+{% hint style="success" %}
+_In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terra-verse._
+{% endhint %}
 
 ![70% of the minting proceeds will fund Project Wallet](<../.gitbook/assets/Finance - Project Wallet (1).jpg>)
 
