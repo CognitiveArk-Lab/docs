@@ -4,7 +4,7 @@
 _The Cognitive Ark - Teaser Trailer_
 {% endembed %}
 
-&#x20;**Synopsis:**
+&#x20;**Background Story:**
 
 "Throughout the years, mankind has faced countless losses and blessings - great wars and times of peace. But, although destruction and resurrection are ever inevitable, mankind cannot escape from their biggest enemy: their own _ego_.\
 
