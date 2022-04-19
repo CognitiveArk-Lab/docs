@@ -7,7 +7,7 @@ Our goal is to build a sustainable community that encourages the Memory holder t
 Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly Leaderboards will receive a portion of **$UST** from the Reward Pool.&#x20;
 
 {% hint style="info" %}
-_2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward to be distributed for the first month of launching. More about it_ [_here_](../i-want-to-know-more/funds-allocation.md#initial-sale)_._
+_2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward to be distributed for the first 2 Timelines after launching. More about it_ [_here_](../i-want-to-know-more/funds-allocation.md#initial-sale)_._
 {% endhint %}
 
 ### Timeline winners allocation:
