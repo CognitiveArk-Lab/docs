@@ -1,5 +1,5 @@
 # 📖 Glossary
 
-#### MMORPG - Massive Multiplayer Online Role-Playing Game
+MMORPG - Massive Multiplayer Online Role-Playing Game
 
-#### P2E- Play to Earn
+P2E- Play to Earn
