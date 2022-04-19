@@ -8,12 +8,12 @@ description: In this section, you can learn more about our funds' allocation.
 
 **Distributions from minting sales are as follow:**
 
-* 70% to Project Wallet.
+* 70% to Project Wallet
   * _20% to Operational Funds_
   * _80% to Treasury_
 * 2.5% to Reward Pool
 * 2.5% to Charity - Angel Protocol
-* 25% to Team.
+* 25% to Team
 
 ## Project Wallet 🚀
 
