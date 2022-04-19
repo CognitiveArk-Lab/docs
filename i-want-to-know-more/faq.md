@@ -24,7 +24,7 @@
 There are many ways to start using the Terra ecosystem. Here are some of them:
 
 {% hint style="info" %}
-If you want to **bridge** your assets from other Blockchain, you can skip to part 3.
+_If you want to **bridge** your assets from other Blockchain, you can skip to part 3._
 {% endhint %}
 
 <details>
@@ -48,7 +48,7 @@ If you want to **bridge** your assets from other Blockchain, you can skip to par
 
 * Choose your source of funds.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 </details>
 
@@ -56,7 +56,17 @@ If you want to **bridge** your assets from other Blockchain, you can skip to par
 
 <summary>3. Bridge your assets from another blockchain <span data-gb-custom-inline data-tag="emoji" data-code="1f309">🌉</span></summary>
 
+* Go to [https://bridge.terra.money/](https://bridge.terra.money) and connect your wallet
 
+![](<../.gitbook/assets/image (6).png>)
+
+* Choose your Chain from the lists
+
+__![](<../.gitbook/assets/image (5).png>)__
+
+
+
+* Put your Terra wallet address in _"Destination Address"_
 
 </details>
 
@@ -76,12 +86,8 @@ We are launching on Terra in Q2 2022.
 
 ### <mark style="color:yellow;">6. What is the minting price?</mark>🔖
 
-* Whitelist : TBA $LUNA (1000 reserved for whitelists, 2 NFTs per whitelist)
-* Public: TBA $LUNA (2000 NFTs, max 5 NFTs per wallet)
-
-
-
-
+* Whitelist: TBA (1000 reserved for whitelists, 2 NFTs per whitelist)
+* Public: TBA (2000 NFTs, max 5 NFTs per wallet)
 
 ##
 
