@@ -10,7 +10,7 @@ Here every player has the same opportunity to win the rewards, the time you join
 _This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
 {% endhint %}
 
-## Getting Started 👣
+## Getting Started 🧭
 
 The gamification system will be designed based on the stories and lore of the Cognitive Ark. The memory holder has to interpret the current Timeline and reveal the plot so the story can progress.
 
