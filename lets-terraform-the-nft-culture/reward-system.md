@@ -7,7 +7,7 @@ Our goal is to build a sustainable community that encourages the Memory holder t
 Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly Leaderboards will receive a portion of **$UST** from the Reward Pool.&#x20;
 
 {% hint style="success" %}
-_The reward will be around **$1000** for each cycle._
+_There will be a reward of **$1000** or more available for **10 players** who score the most points each cycle._
 {% endhint %}
 
 ### Timeline winners allocation:

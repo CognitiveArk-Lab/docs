@@ -90,5 +90,5 @@ Learn more about the Colony Lottery Pools in [Reward System](reward-system.md).
 * Immerse yourself in the storyline
 * Stake your Memory in the Timeline
 * Earn as many points as possible
-* Earn Rewards
+* Earn $ARK and $UST as rewards (more information on [Reward System](reward-system.md#1.-reward-pool))
 * Repeat 🔁
