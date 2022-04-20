@@ -56,6 +56,19 @@ Each month CIP yield will be distributed to:
 * _10% Colony Lottery_
 * _20% Team_
 
+## Reward Pool
+
+### Reward Pool source of funds:
+
+* 25% from secondary sales [Royalties](funds-allocation.md#royalty)
+* 20% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
+
+{% hint style="info" %}
+_We will allocate **2.5%** out of the minting proceeds to Reward Pool, thus ensuring a reward to be distributed for each Timeline even before Royalty and CIP kick in._
+{% endhint %}
+
+![](<../.gitbook/assets/Finance - Reward Pool.jpg>)
+
 ## Operational Funds💼
 
 ![](<../.gitbook/assets/Finance - Operational Funds.jpg>)

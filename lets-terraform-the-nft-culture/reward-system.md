@@ -6,8 +6,8 @@ Our goal is to build a sustainable community that encourages the Memory holder t
 
 Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly Leaderboards will receive a portion of **$UST** from the Reward Pool.&#x20;
 
-{% hint style="info" %}
-_2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward to be distributed for the first 2 Timelines after launching. More about it_ [_here_](../i-want-to-know-more/funds-allocation.md#initial-sale)_._
+{% hint style="success" %}
+_The reward will be around **$1000** for each cycle._
 {% endhint %}
 
 ### Timeline winners allocation:
@@ -17,14 +17,9 @@ _2.5% out of the minting proceeds will go to Reward Pool, thus ensuring a reward
 * 🥈 Top 4-5: 10%
 * 🥉 Top 6-10: 8%
 
-{% hint style="warning" %}
-_The amount of the rewards for each cycle can be higher depending on the influx from the source funds._
+{% hint style="info" %}
+_More on this on_ [_Funds Allocation_](../i-want-to-know-more/funds-allocation.md) _>_ [_Reward Pool_](../i-want-to-know-more/funds-allocation.md#reward-pool)__
 {% endhint %}
-
-### Reward Pool source of funds:
-
-* 25% from secondary sales [Royalties](../i-want-to-know-more/funds-allocation.md#royalty)
-* 20% from [Colony Investment Program (CIP)](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip)
 
 ## <mark style="color:yellow;">2. Timeline Reward</mark>
 
