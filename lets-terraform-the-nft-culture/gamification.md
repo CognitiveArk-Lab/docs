@@ -34,7 +34,7 @@ There are four rarities based on four types of Memory:
 
 ## Game Mechanics ⚙️
 
-CognitiveArk NFT has a different approach to P2E. We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics are straightforward:
+CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics are straightforward:
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
 
