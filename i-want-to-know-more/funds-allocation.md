@@ -56,19 +56,6 @@ Each month CIP yield will be distributed to:
 * _10% Colony Lottery_
 * _20% Team_
 
-## <mark style="color:yellow;">Reward Pool</mark>
-
-### Reward Pool source of funds:
-
-* 25% from secondary sales [Royalties](funds-allocation.md#royalty)
-* 20% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
-
-{% hint style="info" %}
-_By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and CIP arrive in the Reward Pool Wallet._
-{% endhint %}
-
-![](<../.gitbook/assets/Finance - Reward Pool.jpg>)
-
 ## <mark style="color:yellow;">Operational Funds💼</mark>
 
 ![](<../.gitbook/assets/Finance - Operational Funds.jpg>)
@@ -92,6 +79,19 @@ We will use the Marketing funds to expand our exposure to other communities. The
 What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on CognitiveArk Tees, Caps, Art prints, and many more!&#x20;
 
 We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
+
+## <mark style="color:yellow;">Reward Pool</mark>
+
+### Reward Pool source of funds:
+
+* 25% from secondary sales [Royalties](funds-allocation.md#royalty)
+* 20% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
+
+{% hint style="info" %}
+_By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and CIP arrive in the Reward Pool Wallet._
+{% endhint %}
+
+![](<../.gitbook/assets/Finance - Reward Pool.jpg>)
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
 
