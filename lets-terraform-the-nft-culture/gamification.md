@@ -1,6 +1,6 @@
 # 🎮 Gamification
 
-## Introduction 👋
+## <mark style="color:yellow;">Introduction</mark> 👋
 
 To understand what we aim to do, we need to step back and analyze the gaming industry that we are familiar with. Most centralized MMORPG games have their economy thrive because they do not allow the players to cash out or sell the in-game currency directly to other players. To put it in another way, they do not own the assets.&#x20;
 
@@ -12,7 +12,7 @@ Here in **CognitiveArk**, every player has the same opportunity to win the rewar
 _This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
 {% endhint %}
 
-## Getting Started 🧭
+## <mark style="color:yellow;">Getting Started 🧭</mark>
 
 The gamification system will be designed based on the stories and lore of the Cognitive Ark. The memory holder has to interpret the current Timeline and reveal the plot so the story can progress.
 
@@ -32,7 +32,7 @@ There are four rarities based on four types of Memory:
 
 ![not the actual Timeline](../.gitbook/assets/Timeline.png)
 
-## Game Mechanics ⚙️
+## <mark style="color:yellow;">Game Mechanics ⚙️</mark>
 
 CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics are straightforward:
 
@@ -69,7 +69,7 @@ _Make sure you put your Memory in the right slot to get bonus points and a rewar
 
 The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
 
-## Colony Lottery 🍀
+## <mark style="color:yellow;">Colony Lottery 🍀</mark>
 
 Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. Each Colony can swap their $ARK for Colony Lottery Ticket (CLT). There is currently no limit on how many CLT each wallet can use for each raffle.
 
@@ -85,7 +85,7 @@ _There is no correct answer on when you will spend your $ARK for CLT. You can al
 
 Learn more about the Colony Lottery Pools in [Reward System](reward-system.md).
 
-## **TL;DR** 🐌
+## <mark style="color:yellow;">**TL;DR**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🐌</mark>
 
 * Immerse yourself in the storyline
 * Stake your Memory in the Timeline

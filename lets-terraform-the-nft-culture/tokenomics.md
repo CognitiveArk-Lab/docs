@@ -1,6 +1,6 @@
 # 🪙 Tokenomics
 
-## Cognitive Ark Gen0 (The Genesis)
+## <mark style="color:yellow;">Cognitive Ark Gen0 (The Genesis)</mark>
 
 CognitiveArk gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate the Terra Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
 
@@ -21,7 +21,7 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 * Access unique role on Discord
 * Gamification V2 benefits
 
-## $ARK
+## <mark style="color:yellow;">$ARK</mark>
 
 Memory holders will earn $ARK as they play and progress through the gamification.
 

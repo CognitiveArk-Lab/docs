@@ -4,7 +4,7 @@ description: In this section, you can learn more about our funds' allocation.
 
 # 🏛 Funds Allocation
 
-## Initial Sale ✨
+## <mark style="color:yellow;">Initial Sale ✨</mark>
 
 **Distributions from minting sales are as follow:**
 
@@ -15,7 +15,7 @@ description: In this section, you can learn more about our funds' allocation.
 * **2.5% to Charity - Angel Protocol**
 * **25% to Team**
 
-## Project Wallet 🚀
+## <mark style="color:yellow;">Project Wallet 🚀</mark>
 
 Project Wallet will be maintained together by Ark-DAO and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
 
@@ -25,7 +25,7 @@ _In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spac
 
 ![70% of the minting proceeds will fund Project Wallet](<../.gitbook/assets/Finance - Project Wallet (1).jpg>)
 
-## Treasury 💵
+## <mark style="color:yellow;">Treasury 💵</mark>
 
 The first allocation from minting proceeds that arrived in the Treasury will fund the Colony Investment Program (CIP), which Ark-DAO will afterward oversee.
 
@@ -56,7 +56,7 @@ Each month CIP yield will be distributed to:
 * _10% Colony Lottery_
 * _20% Team_
 
-## Reward Pool
+## <mark style="color:yellow;">Reward Pool</mark>
 
 ### Reward Pool source of funds:
 
@@ -69,7 +69,7 @@ _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward p
 
 ![](<../.gitbook/assets/Finance - Reward Pool.jpg>)
 
-## Operational Funds💼
+## <mark style="color:yellow;">Operational Funds💼</mark>
 
 ![](<../.gitbook/assets/Finance - Operational Funds.jpg>)
 
@@ -93,7 +93,7 @@ What about having our Merch Store that integrates cryptocurrency as the primary 
 
 We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
 
-## Royalty 🧾
+## <mark style="color:yellow;">Royalty</mark> 🧾
 
 The royalties from the secondary NFT marketplace are distributed directly into the [Reward Pool](../lets-terraform-the-nft-culture/reward-system.md#3.-staking-reward), where the Colony can claim the rewards on our Dashboard on the website.
 
