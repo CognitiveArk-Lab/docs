@@ -60,6 +60,8 @@ _Make sure you put your Memory in the right slot to get bonus points and a rewar
 
 ### Points
 
+The goal is to score the highest points by the end of each cycle. If there are the same points among players, we will prioritize players with longer staking time.
+
 * 10 pts for every correct narrative bubble
 * 10 pts for every correct bubble position
 * 10 pts for special panel
@@ -83,7 +85,7 @@ _**Ten lucky Colonies** will be randomly selected and will get a $UST airdrop._
 _There is no correct answer on when you will spend your $ARK for CLT. You can always participate in each raffle or skip 1 Colony Lottery to get a better chance at the next one. It will depend on your strategy._
 {% endhint %}
 
-Learn more about the Colony Lottery Pools in [Reward System](reward-system.md).
+Learn more about the Colony Lottery Pools in [Reward System](reward-system.md#3.-colony-lottery-pool).
 
 ## <mark style="color:yellow;">**TL;DR**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🐌</mark>
 
