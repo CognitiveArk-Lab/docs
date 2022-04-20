@@ -64,7 +64,7 @@ Each month CIP yield will be distributed to:
 * 20% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="info" %}
-_We will allocate **2.5%** out of the minting proceeds to Reward Pool, thus ensuring a reward to be distributed for each Timeline even before Royalty and CIP kick in._
+_By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and CIP arrive in the Reward Pool Wallet._
 {% endhint %}
 
 ![](<../.gitbook/assets/Finance - Reward Pool.jpg>)
