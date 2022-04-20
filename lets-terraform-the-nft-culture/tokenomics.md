@@ -25,15 +25,15 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 
 Memory holders will earn $ARK as they play and progress through the gamification.
 
-There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.
-
-{% hint style="success" %}
-If a player swap their $ARK for a ticket, the $ARK will be burned
-{% endhint %}
-
 ![Memory Staker will share the pools with other stakers based on the rarity.](<../.gitbook/assets/Finance - ARK Pool.jpg>)
 
+There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.
+
 You can then swap your $ARK for a raffle ticket that will be held Bi-Weekly!
+
+{% hint style="danger" %}
+**$ARK** that is swapped for a raffle ticket will be burnt.
+{% endhint %}
 
 {% hint style="success" %}
 _Get your Memory and earn $ARK as you play the Timeline._
