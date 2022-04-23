@@ -18,7 +18,7 @@ _There will be a reward of **$1,000.00** or more available for **10 players** wh
 * 🥉 Top 6-10: 8%
 
 {% hint style="info" %}
-_More on this on_ [_Funds Allocation_](../i-want-to-know-more/funds-allocation.md) _>_ [_Reward Pool_](../i-want-to-know-more/funds-allocation.md#reward-pool)__
+_The reward is subject to change depending on source funds, more on this on_ [_Funds Allocation_](../i-want-to-know-more/funds-allocation.md) _>_ [_Reward Pool_](../i-want-to-know-more/funds-allocation.md#reward-pool)__
 {% endhint %}
 
 ## <mark style="color:yellow;">2. Timeline Reward</mark>
