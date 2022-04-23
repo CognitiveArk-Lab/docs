@@ -91,7 +91,7 @@ We will funnel the profits back into the Treasury and Project Wallet and increas
 _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and CIP arrive in the Reward Pool Wallet._
 {% endhint %}
 
-![](<../.gitbook/assets/Finance - Reward Pool.jpg>)
+![The reward is subject to change depending on source funds](<../.gitbook/assets/Finance - Reward Pool.jpg>)
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
 
