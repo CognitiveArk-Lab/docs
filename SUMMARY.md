@@ -18,7 +18,6 @@
 
 ***
 
-* [Website](https://www.cognitiveark.io)
 * [Twitter](https://twitter.com/cognitiveArk)
 * [Discord](https://discord.gg/NzDV2NRT)
 * [Instagram](https://www.instagram.com/cognitive\_ark/)
