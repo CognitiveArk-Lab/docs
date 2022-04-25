@@ -18,7 +18,9 @@ Globally distributed team. We are adopting different cultures and assembling the
 
 ![](../.gitbook/assets/Efacsen.png) ![](../.gitbook/assets/Nowhereman.png) ![](../.gitbook/assets/Putripadalarang.png)
 
-![](../.gitbook/assets/Haulerkonj.png) ![](../.gitbook/assets/Kvlj.png) ![](../.gitbook/assets/LordaBix.png) ![](../.gitbook/assets/Mudikersjawa.png)
+![](../.gitbook/assets/Haulerkonj.png) ![](../.gitbook/assets/Kvlj.png)
+
+![](../.gitbook/assets/LordaBix.png) ![](../.gitbook/assets/Mudikersjawa.png)
 
 ### <mark style="color:red;">**Efacsen**</mark>&#x20;
 
@@ -44,14 +46,20 @@ LEAD DEVELOPER
 
 Passion-driven, visionary Blockchain developer. Married to RUST. Have a rich understanding of every Blockchains Layer. Producer of high-quality code. A techie 🤓 that opens up for a challenge.
 
-### <mark style="color:red;">**Mdkrsjw**</mark>
-
-TECH ADVISOR
-
-Critical thinker that has extensive experience as a Senior Software Engineer. Spent most of his career on DAX companies, with a strong focus on UX/UI and developing a framework for 3D UI.
-
 ### <mark style="color:red;">Kvlj</mark>
 
 COMMUNITY MANAGER
 
 Passionate in communication studies, art and culture. Keen problem solver. Believe in the importance of valid principles for every decision-making.
+
+### LordabiX
+
+DISCORD MANAGER
+
+Amicable person who is responsible and kind-hearted, yet also critical in thinking.
+
+### <mark style="color:red;">**Mdkrsjw**</mark>
+
+TECH ADVISOR
+
+Critical thinker that has extensive experience as a Senior Software Engineer. Spent most of his career on DAX companies, with a strong focus on UX/UI and developing a framework for 3D UI.
