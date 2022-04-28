@@ -24,13 +24,13 @@ Globally distributed team. We are adopting different cultures and assembling the
 
 ### <mark style="color:red;">**Efacsen**</mark>&#x20;
 
-(FOUNDER & CFO)
+(FOUNDER & CEO)
 
 A born entrepreneur. In addition to leadership skills, he is also a builder with an instinctive talent for understanding the market. His background in Business IT helps him find innovative ways to connect the digital world with conventional finance.&#x20;
 
 ### <mark style="color:red;">**Now|here.man**</mark>&#x20;
 
-CO-FOUNDER & CCO
+CO-FOUNDER & CREATIVE DIRECTOR
 
 The stories, myths, and mysteries of humanity inspire him to reflect on the meaning of life through all kinds of storytelling. Art events organizer. Producer and Director of a documentary movie.
 
@@ -50,13 +50,13 @@ Passion-driven, visionary Blockchain developer. Married to RUST. Have a rich und
 
 COMMUNITY MANAGER
 
-Passionate in communication studies, art and culture. Keen problem solver. Believe in the importance of valid principles for every decision-making.
+Passionate in communication studies, art, and culture. Keen problem solver. Believe in the importance of valid principles for every decision-making.
 
-### LordabiX
+### <mark style="color:red;">LordabiX</mark>
 
 DISCORD MANAGER
 
-Amicable person who is responsible and kind-hearted, yet also critical in thinking.
+Amicable person who is responsible and kind-hearted, yet also has critical thinking.
 
 ### <mark style="color:red;">**Mdkrsjw**</mark>
 
