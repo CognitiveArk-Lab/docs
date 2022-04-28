@@ -93,6 +93,13 @@ _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward p
 
 ![The reward is subject to change depending on source funds](<../.gitbook/assets/Finance - Reward Pool.jpg>)
 
+## <mark style="color:yellow;">Lottery Pool</mark>
+
+### Colony Lottery source of funds:
+
+* 25% from secondary sales [Royalties](funds-allocation.md#royalty)
+* 10% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
+
 ## <mark style="color:yellow;">Royalty</mark> 🧾
 
 The royalties from the secondary NFT marketplace are distributed directly into the [Reward Pool](../lets-terraform-the-nft-culture/reward-system.md#3.-staking-reward), where the Colony can claim the rewards on our Dashboard on the website.
@@ -105,8 +112,7 @@ The royalty distribution based on the secondary marketplace:
 
 * 2,4% to Project Wallet
 * 1,5% to Reward Pool
-* 0,9% to Angel Protocol
-* 0,6% to Colony Lottery
+* 1,5% to Colony Lottery
 * 0,6% to Team
 
 </details>
@@ -117,8 +123,7 @@ The royalty distribution based on the secondary marketplace:
 
 * 2,4% to Project Wallet
 * 1,5% to Reward Pool
-* 0,9% to Angel Protocol
-* 0,6% to Colony Lottery
+* 1,5% to Colony Lottery
 * 0,6% to Team
 
 </details>
