@@ -36,7 +36,7 @@ Ark-DAO will have the capacity to decide how the Colony will spend the Treasury.
 * _Boost the Reward Pool_
 * _Boost the Colony Lottery Pool_
 
-### Colony Investment Program (CIP) 📈
+## <mark style="color:yellow;">Colony Investment Program (CIP) 📈</mark>
 
 CIP is a yield farming strategy leveraging Terra DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
