@@ -3,9 +3,9 @@ cover: .gitbook/assets/Gitbook Banner3.jpg
 coverY: 0
 ---
 
-# ☄ Welcome to CognitiveArk
+# ☄ Welcome to The Cognitive Ark
 
-## <mark style="color:yellow;">What is CognitiveArk?</mark>
+## <mark style="color:yellow;">What is The Cognitive Ark?</mark>
 
 _**CognitiveArk**_ is a multidimensional story-based NFT attempting to change the NFT art landscape with its straightforward gamification. Not just that, we are also aiming to terraform the NFT Culture with our unique Art style, also developing NFT 2.0 for the next generation. Opening up numerous unexplored possibilities that are once holding us (creators) back. In addition, this doc will provide more details about _lore, tokenomics, gamification mechanics_, and the _reward system_ of **CognitiveArk** NFTs.
 

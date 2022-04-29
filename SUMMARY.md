@@ -1,6 +1,6 @@
 # Table of contents
 
-* [☄ Welcome to CognitiveArk](README.md)
+* [☄ Welcome to The Cognitive Ark](README.md)
 
 ## 🌏 LETS TERRAFORM THE NFT CULTURE
 
