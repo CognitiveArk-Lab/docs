@@ -7,7 +7,7 @@ description: >-
 
 # 🏛 Funds Allocation
 
-## <mark style="color:yellow;">Initial Sale ✨</mark>
+## <mark style="color:yellow;">Gen0 Initial Sale ✨</mark>
 
 **Distributions from minting sales are as follow:**
 
@@ -17,6 +17,10 @@ description: >-
 * **2.5% to Reward Pool**
 * **2.5% to Charity - Angel Protocol**
 * **25% to Team**
+
+{% hint style="info" %}
+**100%** of A.N.I.M.A sales proceeds will be going to Operational Funds secured with multisig. The royalties will be the same as gen0.
+{% endhint %}
 
 ## <mark style="color:yellow;">Project Wallet 🚀</mark>
 
