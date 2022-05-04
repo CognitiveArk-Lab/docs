@@ -4,7 +4,7 @@
 
 First phase of The Cognitive Ark will be started by releasing _**100 exclusive NFTs**_ codenamed A.N.I.M.A.&#x20;
 
-The Cognitive Ark **OG** will have the opportunity to pre-mint 1 A.N.I.M.A (two weeks prior to gen0 release). After that, it will be open for the public to mint.
+The Cognitive Ark <mark style="color:red;">**OG**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (two weeks prior to gen0 release). After that, it will be open for the public to mint.
 
 The benefits for holding A.N.I.M.A is as follows:
 
