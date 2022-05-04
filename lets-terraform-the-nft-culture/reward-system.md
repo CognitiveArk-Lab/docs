@@ -27,7 +27,7 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 
 *   #### &#x20;<mark style="color:purple;">Legendary Memory</mark>
 
-    The Top 1 player in the Leaderboard will receive _1 Legendary Memory_ that holds many benefits and can be played in our gamification V2 update.
+    The Top 1 player in the Leaderboard will receive _**1 Legendary Memory**_ that can be played on our _Legendary Timeline_, and holds many benefits and can be played in our gamification V2 update.
 *   <mark style="color:purple;">**Comic Chapter Airdrops**</mark>
 
     Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
