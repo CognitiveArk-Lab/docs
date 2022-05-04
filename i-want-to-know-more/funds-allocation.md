@@ -49,7 +49,7 @@ CIP is a yield farming strategy leveraging Terra DeFi ecosystem. With the Colony
 
 **The first CIP allocation is as follows:**
 
-* **70% into** [**Anchor**](https://app.anchorprotocol.com/earn) **to receive \~19,47 APY in $UST (Locked for 2 Years).**
+* **70% into** [**Anchor**](https://app.anchorprotocol.com/earn) **to receive \~19,47 APY in $UST (Locked for 1 Year).**
 * **30% into the community chosen projects on Terra.**
 
 {% hint style="info" %}
