@@ -1,5 +1,8 @@
 ---
-description: In this section, you can learn more about our funds' allocation.
+description: >-
+  In this section, you can learn more about our funds' allocation. We are here
+  to contribute to the ecosystem, and we believe Transparency is vital for the
+  community
 ---
 
 # 🏛 Funds Allocation
