@@ -8,7 +8,7 @@ The Cognitive Ark <mark style="color:green;">**OG**</mark> will have the opportu
 
 The benefits for holding A.N.I.M.A is as follows:
 
-* **Free pass to mint 1 gen0**
+* **Free pass to mint 1 gen0 for free**
 * Playable in the Timeline gamification
 * Can be staked to earn $ARK
 * Access unique role on Discord
