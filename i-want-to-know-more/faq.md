@@ -99,8 +99,8 @@ We are launching on Terra in Q2 2022.
 
 ### <mark style="color:yellow;">6. What is the minting price?</mark>🔖
 
-* Whitelist: TBA (1000 reserved for whitelists, 2 NFTs per whitelist)
-* Public: TBA (2000 NFTs, max 5 NFTs per wallet)
+* Whitelist: TBA (1000 reserved for whitelists, 4 NFTs per whitelist)
+* Public: TBA (2000 NFTs, max 8 NFTs per wallet)
 
 ##
 
