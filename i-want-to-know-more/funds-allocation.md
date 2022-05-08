@@ -118,9 +118,9 @@ The royalty distribution based on the secondary marketplace:
 <summary><strong></strong><a href="https://randomearth.io/home"><strong>Random Earth</strong></a> <strong>(5%)</strong></summary>
 
 * 2,0% to Project Wallet
-* 1,5% to Reward Pool
+* 1,0% to Reward Pool
 * 1,0% to Colony Lottery
-* 0,5% to Team
+* 1,0% to Team
 
 </details>
 
@@ -129,9 +129,9 @@ The royalty distribution based on the secondary marketplace:
 <summary><a href="https://knowhere.art">Knowhere</a> <strong>(5%)</strong></summary>
 
 * 2,0% to Project Wallet
-* 1,5% to Reward Pool
+* 1,0% to Reward Pool
 * 1,0% to Colony Lottery
-* 0,5% to Team
+* 1,0% to Team
 
 </details>
 
