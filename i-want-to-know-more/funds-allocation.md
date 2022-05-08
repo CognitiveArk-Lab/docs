@@ -19,7 +19,7 @@ description: >-
 * **25% to Team**
 
 {% hint style="info" %}
-_**100%** of A.N.I.M.A sales proceeds will be directly going to Operational Funds secured with multisig. The royalties will be the same as gen0._
+_**100%** of A.N.I.M.A sales proceeds will be directly going to Operational Funds secured with multisig. The royalties distribution will be the_ [_same_](funds-allocation.md#royalty) _as gen0._
 {% endhint %}
 
 ## <mark style="color:yellow;">Project Wallet 🚀</mark>
