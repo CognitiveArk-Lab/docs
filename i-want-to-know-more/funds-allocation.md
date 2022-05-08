@@ -91,7 +91,7 @@ We will funnel the profits back into the Treasury and Project Wallet and increas
 
 ### Reward Pool source of funds:
 
-* 25% from secondary sales [Royalties](funds-allocation.md#royalty)
+* 20% from secondary sales [Royalties](funds-allocation.md#royalty)
 * 20% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="info" %}
@@ -104,7 +104,7 @@ _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward p
 
 ### Colony Lottery source of funds:
 
-* 25% from secondary sales [Royalties](funds-allocation.md#royalty)
+* 20% from secondary sales [Royalties](funds-allocation.md#royalty)
 * 10% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
