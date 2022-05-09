@@ -36,7 +36,7 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 
 ### Colony Lottery source of funds:
 
-* 10% from secondary sales [Royalties](../i-want-to-know-more/funds-allocation.md#royalty)
+* 20% from secondary sales [Royalties](../i-want-to-know-more/funds-allocation.md#royalty)
 * 10% from [Colony Investment Program (CIP)](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="warning" %}
