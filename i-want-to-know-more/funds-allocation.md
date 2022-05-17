@@ -45,15 +45,21 @@ Ark-DAO will have the capacity to decide how the Colony will spend the Treasury.
 
 ## <mark style="color:yellow;">Colony Investment Program (CIP) 📈</mark>
 
-CIP is a yield farming strategy leveraging Terra DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on Terra Ecosystem. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
+CIP is a yield farming strategy leveraging DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on each chains. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 **The first CIP allocation is as follows:**
 
-* **70% into** [**Anchor**](https://app.anchorprotocol.com/earn) **to receive \~19,47 APY in $UST (Locked for 1 Year).**
-* **30% into the community chosen projects on Terra.**
+* **40% into Solana ecosystem**
+  * 20% into SOL lending pools on Francium.&#x20;
+  * 20% into SOL-USDC farm on Francium.
+* **60% into other ecosystem**
+  * Binance - 20% into BUSD-BNB farm on PancakeSwap.
+  * Avalanche - 15% into AVAX-ETH farm on YieldYak.
+  * Fantom - 10% into FTM-USDC farm on SpookySwap.
+  * 15% into community chosen projects.
 
 {% hint style="info" %}
-_30% from Treasury will be invested in Terra Ecosystem projects that are chosen by the Ark-DAO. The Colony will be able to submit a proposal after our initial minting phase is over._
+_15% from Treasury will be invested in emerging projects that are chosen by the Ark-DAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
 Each month CIP yield will be distributed to:
@@ -115,7 +121,7 @@ The royalty distribution is based on the secondary marketplace:
 
 <details>
 
-<summary><strong></strong><a href="https://randomearth.io/home"><strong>Random Earth</strong></a> <strong>(5%)</strong></summary>
+<summary><a href="https://magiceden.io/">Magic Eden</a> <strong>(5%)</strong></summary>
 
 * 2,0% to Project Wallet
 * 1,0% to Reward Pool
@@ -126,7 +132,7 @@ The royalty distribution is based on the secondary marketplace:
 
 <details>
 
-<summary><a href="https://knowhere.art">Knowhere</a> <strong>(5%)</strong></summary>
+<summary><strong>TBA (5%)</strong></summary>
 
 * 2,0% to Project Wallet
 * 1,0% to Reward Pool

@@ -73,10 +73,10 @@ The Leaderboard will show the current points and the total points from previous 
 
 ## <mark style="color:yellow;">Colony Lottery 🍀</mark>
 
-Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. Each Colony can swap their $ARK for Colony Lottery Ticket (CLT). There is currently no limit on how many CLT each wallet can use for each raffle.
+Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. Each Colony can swap their $ARK for Colony Lottery Ticket (CLT). There is currently no limit on how many CLTs each wallet can use for each raffle.
 
 {% hint style="success" %}
-_**Ten lucky Colonies** will be randomly selected and will get a $UST airdrop._
+_**Ten lucky Colonies** will be randomly selected and will get $SOL airdrop._
 {% endhint %}
 
 > _Colony Lottery Ticket price will be set to **1 CLT = 10 $ARK**_
