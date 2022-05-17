@@ -2,19 +2,17 @@
 
 ## INDEX
 
-1. [Where can I learn more about Terra?](faq.md#1.-where-can-i-learn-more-about-terra):full\_moon:
+1. [Where can I learn more about Solana?](faq.md#1.-where-can-i-learn-more-about-terra):full\_moon:
 2. [I'm new! How can I join the Solana ecosystem?](faq.md#2.-im-new-how-can-i-join-the-terra-ecosystem)🌌
 3. [Wen launch ser?](faq.md#4.-wen-launch) :calendar\_spiral:
 4. [How to get Whitelist?](faq.md#how-to-get-whitelist) 🛸
 5. [What is the minting price?](faq.md#5.-what-is-the-minting-price) 🔖
 
-### <mark style="color:yellow;">1. Where can I learn more about Terra?</mark>:full\_moon:
+### <mark style="color:yellow;">1. Where can I learn more about Solana?</mark>:full\_moon:
 
-> Website: [https://www.terra.money/](https://www.terra.money/)
+> Website: [https://solana.com/](https://solana.com/)
 >
-> Twitter: [https://twitter.com/terra\_money](https://twitter.com/terra\_money)
->
-> Short introduction: [(7 Minutes) Video](https://player.vimeo.com/video/635956149)&#x20;
+> Twitter: [https://twitter.com/solana](https://twitter.com/solana)
 
 ### <mark style="color:yellow;">2. I'm new! How can I join the Solana ecosystem?</mark>🌌&#x20;
 
