@@ -16,7 +16,7 @@ The benefits for holding A.N.I.M.A is as follows:
 
 ## <mark style="color:yellow;">The Cognitive Ark gen0 (The Genesis)</mark>
 
-CognitiveArk gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate the Terra Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
+CognitiveArk gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate Solana Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
 
 ![](<../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
 
