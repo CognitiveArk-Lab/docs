@@ -45,17 +45,17 @@ Ark-DAO will have the capacity to decide how the Colony will spend the Treasury.
 
 ## <mark style="color:yellow;">Colony Investment Program (CIP) 📈</mark>
 
-CIP is a yield farming strategy leveraging DeFi ecosystem. With the Colony behind the Treasury, we will discover the best yet safest investment on each chains. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
+CIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the importance of having a Treasury backed by diverse assets from different ecosystems, ensuring the flexibility to catch opportunities on many chains, and having extra security when it comes to unwanted events like what happened on Terra lately. With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 **The first CIP allocation is as follows:**
 
 * **40% into Solana ecosystem**
-  * 20% into SOL lending pools on Francium.&#x20;
-  * 20% into SOL-USDC farm on Francium.
+  * 20% into [SOL lending](https://francium.io/app/lend) pools on Francium.&#x20;
+  * 20% into [SOL-USDC](https://francium.io/app/invest/farm) farm on Francium.
 * **60% into other ecosystem**
-  * Binance - 20% into BUSD-BNB farm on PancakeSwap.
-  * Avalanche - 15% into AVAX-ETH farm on YieldYak.
-  * Fantom - 10% into FTM-USDC farm on SpookySwap.
+  * Binance - 20% into [BUSD-BNB](https://pancakeswap.finance/info/pool/0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16) farm on PancakeSwap.
+  * Avalanche - 15% into [AVAX-ETH](https://yieldyak.com/farms/detail/0x5219558ee591b030E075892acc41334A1694fd8A) farm on YieldYak.
+  * Fantom - 10% into [USDC-FTM](https://info.spooky.fi/pairs) farm on SpookySwap.
   * 15% into community chosen projects.
 
 {% hint style="info" %}
