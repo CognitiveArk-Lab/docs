@@ -2,12 +2,12 @@
 
 * [☄ Welcome to The Cognitive Ark](README.md)
 
-## 🌏 LETS TERRAFORM THE NFT CULTURE
+## 🌏 INJECTING NEW NFT CULTURE
 
-* [📜 Story and Lore](lets-terraform-the-nft-culture/story-and-lore.md)
-* [🎮 Gamification](lets-terraform-the-nft-culture/gamification.md)
-* [🪙 Tokenomics](lets-terraform-the-nft-culture/tokenomics.md)
-* [🎯 Reward System](lets-terraform-the-nft-culture/reward-system.md)
+* [📜 Story and Lore](injecting-new-nft-culture/story-and-lore.md)
+* [🎮 Gamification](injecting-new-nft-culture/gamification.md)
+* [🪙 Tokenomics](injecting-new-nft-culture/tokenomics.md)
+* [🎯 Reward System](injecting-new-nft-culture/reward-system.md)
 
 ## 🤓 I WANT TO KNOW MORE
 
