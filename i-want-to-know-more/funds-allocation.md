@@ -27,7 +27,7 @@ _**100%** of A.N.I.M.A sales proceeds will be directly going to Operational Fund
 Project Wallet will be maintained together by Ark-DAO and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
 
 {% hint style="success" %}
-_In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Terra-verse._
+_In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Sol-verse._
 {% endhint %}
 
 ![70% of the minting proceeds will fund Project Wallet](<../.gitbook/assets/Finance - Project Wallet (1).jpg>)
@@ -81,7 +81,7 @@ Due to our commitment to sustainability, we keep operational funds separated fro
 
 ### Development 🧰
 
-We are here to innovate! To be able to terraform the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
+We are here to innovate! Being able to contribute to the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification.
 
 ### Marketing 📡
 
