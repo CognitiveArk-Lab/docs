@@ -6,7 +6,7 @@ description: The Ark-Lab Team
 
 ## <mark style="color:yellow;">**The Ark-Lab Team**</mark>
 
-**We are a band of creative misfits.** Established to become an active contributor to Solana ecosystem that advocates innovative services for the community.
+**We are a band of creative misfits.** Established to become a key player in the Terra ecosystem that advocates innovative services for the community.
 
 > ### _<mark style="color:green;">**" Talent wins games, but teamwork and intelligence win championships. "**</mark>_
 >
