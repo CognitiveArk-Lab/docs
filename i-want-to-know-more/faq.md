@@ -82,7 +82,7 @@ _****_
 
 ### <mark style="color:yellow;">3. Wen launch?</mark> 📅
 
-We are launching on Terra in Q2 2022.
+We are launching on Solana in Q2 2022.
 
 ### <mark style="color:yellow;">4. How to get Whitelist?</mark> 🛸
 
