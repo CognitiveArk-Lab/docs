@@ -51,11 +51,11 @@ CIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the 
 
 * **40% into Solana ecosystem**
   * 20% into [SOL lending](https://francium.io/app/lend) pools on Francium.&#x20;
-  * 20% into [SOL-USDC](https://francium.io/app/invest/farm) farm on Francium.
+  * 20% into [SOL-USDC](https://francium.io/app/invest/farm) [LP](https://francium.io/app/invest/farm) farm on Francium.
 * **60% into other ecosystem**
-  * Binance - 20% into [BUSD-BNB](https://pancakeswap.finance/info/pool/0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16) farm on PancakeSwap.
-  * Avalanche - 15% into [AVAX-ETH](https://yieldyak.com/farms/detail/0x5219558ee591b030E075892acc41334A1694fd8A) farm on YieldYak.
-  * Fantom - 10% into [USDC-FTM](https://info.spooky.fi/pairs) farm on SpookySwap.
+  * Binance - 20% into [BUSD-BNB](https://pancakeswap.finance/info/pool/0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16) [LP](https://pancakeswap.finance/info/pool/0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16) farm on PancakeSwap.
+  * Avalanche - 15% into [AVAX-ETH](https://yieldyak.com/farms/detail/0x5219558ee591b030E075892acc41334A1694fd8A) [LP](https://yieldyak.com/farms/detail/0x5219558ee591b030E075892acc41334A1694fd8A) farm on YieldYak.
+  * Fantom - 10% into [USDC-FTM](https://info.spooky.fi/pairs) [LP](https://info.spooky.fi/pairs) farm on SpookySwap.
   * 15% into community chosen projects.
 
 {% hint style="info" %}
