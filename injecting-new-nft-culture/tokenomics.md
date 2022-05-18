@@ -36,15 +36,25 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 * Access unique role on Discord
 * Gamification V2 benefits
 
+### $ARK Distribution
+
+![](<../.gitbook/assets/Finance - ARK Pool.jpg>)
+
+There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
+
+{% hint style="success" %}
+_Get your Memory and earn $ARK as you play the Timeline._
+{% endhint %}
+
 ## <mark style="color:yellow;">$ARK Token</mark>
 
 $ARK token is the governance token for TCA ecosystem. $ARK can be staked to collect a portion of the protocol multi-chain investment program. The total maximum supply of $ARK is capped at _**7,000,000**_ tokens.
 
 ![](<../.gitbook/assets/$ARK Token Distribution.png>)
 
-## Initial Token Distribution
+## <mark style="color:yellow;">Initial Token Distribution</mark>
 
-The initial mint of $ARK token is 20% of the total maximum supply, and will be distributed as follows:
+#### The initial mint of $ARK token is 20% of the total maximum supply, and will be distributed as follows:
 
 {% hint style="info" %}
 _From the total initial mint of 20%, **only 2,5%** will circulate upon launching._
@@ -63,10 +73,10 @@ _From the total initial mint of 20%, **only 2,5%** will circulate upon launching
 * We are here to develop further and push NFT boundaries, meaning we commit ourselves to build with our community.&#x20;
 * 5% initial allowance (35,000 $ARK) and 95% (665,000 $ARK) will be vested linearly over two years. This will incentivize the team to continue innovating, building, and expanding more use cases for the $ARK token.
 
-## Token Emissions
+## <mark style="color:yellow;">Token Emissions</mark>
 
 {% hint style="success" %}
-_After the initial mint of 20%, the remaining total supply will be emitted over two years (see Emission Schedule)._
+_After the initial mint of 20%, the remaining total supply will be emitted over two years (see_ [_Emission Schedule_](tokenomics/emission-schedule.md)_)._
 {% endhint %}
 
 ### Memory Staking Reward - 70% (4,900,000 $ARK)
@@ -79,7 +89,7 @@ _After the initial mint of 20%, the remaining total supply will be emitted over 
 * TCA Team will not ever use nor take advantage of Treasury Funds
 * After we are well established, the Treasury Funds will be secured by 3/4 multisig wallet, consisting of 1 TCA Team member and 3 well-known community members
 
-## Swap Fees
+## <mark style="color:yellow;">Swap Fees</mark>
 
 TCA will provide Liquidity Pool for $ARK-$SOL, and TCA **does not charge any protocol fee** for this Pool; however, there will be a **0,30% swap fee** to incentive the Liquidity Provider. Anyone who has $ARK or $SOL can ZAP in to participate in the $ARK-$SOL liquidity pool. The swap fee will be denominated in the input token.&#x20;
 
@@ -94,22 +104,4 @@ _**Example:** Joe is swapping 1 $SOL for 10 $ARK; Joe will then have to pay the 
 
 {% hint style="success" %}
 _TCA initial liquidity pool swap fees will be **100% redistributed for $ARK stakers**._
-{% endhint %}
-
-__
-
-
-
-![Memory Staker will share the pools with other stakers based on the rarity.](<../.gitbook/assets/Finance - ARK Pool.jpg>)
-
-There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
-
-You can then swap your $ARK for a raffle ticket that will be held Bi-Weekly!
-
-{% hint style="danger" %}
-**$ARK** that is swapped for a raffle ticket will be burnt.
-{% endhint %}
-
-{% hint style="success" %}
-_Get your Memory and earn $ARK as you play the Timeline._
 {% endhint %}
