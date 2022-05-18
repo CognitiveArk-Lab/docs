@@ -18,7 +18,7 @@ The benefits for holding A.N.I.M.A is as follows:
 
 CognitiveArk gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate Solana Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
 
-![](<../../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
+![](<../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
 
 * 700 Memories reserved for Whitelist minting
 * 2200 Memories reserved for Public minting
@@ -40,7 +40,7 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 
 $ARK token is the governance token for TCA ecosystem. $ARK can be staked to collect a portion of the protocol multi-chain investment program. The total maximum supply of $ARK is capped at _**7,000,000**_ tokens.
 
-![](<../../.gitbook/assets/$ARK Token Distribution.png>)
+![](<../.gitbook/assets/$ARK Token Distribution.png>)
 
 ## Initial Token Distribution
 
@@ -100,7 +100,7 @@ __
 
 
 
-![Memory Staker will share the pools with other stakers based on the rarity.](<../../.gitbook/assets/Finance - ARK Pool.jpg>)
+![Memory Staker will share the pools with other stakers based on the rarity.](<../.gitbook/assets/Finance - ARK Pool.jpg>)
 
 There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
 
