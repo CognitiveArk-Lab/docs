@@ -6,7 +6,7 @@ To understand what we aim to do, we need to step back and analyze the gaming ind
 
 Decentralized games aim to change this fundamental issue. They want to give the ownership back to the player's hands. But this comes with a high cost too, as most people in this space come from the DeFi scene. The people are primarily investors who fundamentally pursue the profit and not the actual players who love, appreciate, and enjoy the game. Early investors have advantages over the player who joined at a later stage as the early adopters will use the newer player as their exit liquidity. This cycle persists until the project cannot sustain the selling pressure and burns the project to the ground.&#x20;
 
-Here in **CognitiveArk**, every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning, and there is **ZERO** risk to be dumped on by early investors!
+Here in **CognitiveArk**, every player has the same opportunity to win the rewards, the time you join our community doesn't dictate the odds of winning!
 
 {% hint style="info" %}
 _This mechanism will allow us to sustain the project and create an authentic community that plays around the concepts and values the work we put into it!_
