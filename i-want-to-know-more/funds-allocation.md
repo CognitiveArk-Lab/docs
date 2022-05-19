@@ -122,9 +122,8 @@ The royalty distribution is based on the secondary marketplace:
 
 <summary><a href="https://magiceden.io/">Magic Eden</a> <strong>(5%)</strong></summary>
 
-* 2,0% to Project Wallet
-* 1,0% to Reward Pool
-* 1,0% to Colony Lottery
+* 2,5% to Project Wallet
+* 1,5% to Reward Pool
 * 1,0% to Team
 
 </details>
@@ -133,9 +132,8 @@ The royalty distribution is based on the secondary marketplace:
 
 <summary><strong>TBA (5%)</strong></summary>
 
-* 2,0% to Project Wallet
-* 1,0% to Reward Pool
-* 1,0% to Colony Lottery
+* 2,5% to Project Wallet
+* 1,5% to Reward Pool
 * 1,0% to Team
 
 </details>

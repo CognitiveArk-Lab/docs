@@ -33,16 +33,3 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 *   <mark style="color:purple;">**Comic Chapter Airdrops**</mark>
 
     Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
-
-## <mark style="color:yellow;">3. Colony Lottery Pool</mark>
-
-### Colony Lottery source of funds:
-
-* 20% from secondary sales [Royalties](../i-want-to-know-more/funds-allocation.md#royalty)
-* 10% from [Colony Investment Program (CIP)](../i-want-to-know-more/funds-allocation.md#colony-investment-program-cip)
-
-{% hint style="warning" %}
-_We will set the initial amount of the rewards for each Lottery to a **maximum**  **$1,000.00**. If more than $1,000.00 is in the Pool, the funds will carry on to the next raffle._
-{% endhint %}
-
-_more about how_ [_Colony Lottery_](gamification.md#colony-lottery) _works._
