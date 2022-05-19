@@ -34,7 +34,7 @@ _In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spac
 
 ## <mark style="color:yellow;">Treasury 💵</mark>
 
-The first allocation from minting proceeds that arrived in the Treasury will fund the Colony Investment Program (CIP), which Ark-DAO will afterward oversee.
+The first allocation from minting proceeds that arrived in the Treasury will fund the Colony Investment Program (MIP), which Ark-DAO will afterward oversee.
 
 Ark-DAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
 
@@ -62,7 +62,7 @@ MIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the 
 _15% from Treasury will be invested in emerging projects that are chosen by the Ark-DAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
-Each month CIP yield will be distributed to:
+Each month MIP yield will be distributed to:
 
 * _50% back to the Treasury_
 * _20% Reward Pool_
@@ -98,10 +98,10 @@ We will funnel the profits back into the Treasury and Project Wallet and increas
 ### Reward Pool source of funds:
 
 * 20% from secondary sales [Royalties](funds-allocation.md#royalty)
-* 20% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
+* 20% from [Colony Investment Program (MIP)](funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="info" %}
-_By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and CIP arrive in the Reward Pool Wallet._
+_By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and MIP arrive in the Reward Pool Wallet._
 {% endhint %}
 
 ![The reward is subject to change depending on source funds](<../.gitbook/assets/Finance - Reward Pool.jpg>)
@@ -111,7 +111,7 @@ _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward p
 ### Colony Lottery source of funds:
 
 * 20% from secondary sales [Royalties](funds-allocation.md#royalty)
-* 10% from [Colony Investment Program (CIP)](funds-allocation.md#colony-investment-program-cip)
+* 10% from [Colony Investment Program (MIP)](funds-allocation.md#colony-investment-program-cip)
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
 
