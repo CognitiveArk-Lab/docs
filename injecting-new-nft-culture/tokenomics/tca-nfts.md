@@ -1,10 +1,18 @@
-# 🎨 TCA NFTs
+# 🖼 TCA NFTs
 
 
 
 ## <mark style="color:yellow;">A.N.I.M.A</mark>
 
-First phase of The Cognitive Ark will be started by releasing _**100 exclusive NFTs**_ codenamed A.N.I.M.A. {Insert ANIMA background story here}
+First phase of The Cognitive Ark will be started by releasing _**100 exclusive NFTs**_ codenamed A.N.I.M.A.&#x20;
+
+
+
+![The A.N.I.M.A](<../../.gitbook/assets/ANIMA Blueprint.png>)
+
+"_`Amongst the survivor who inhabited the mothership Messiah, some machine-like figure can be found roaming around over the years. With faces and emotions resemble human beings and even speak like a human- almost exactly like a human with a different body. They don't appear so hostile; instead, they seem to help develop the colony. Yet, their origins remain a mystery.`_"
+
+
 
 The Cognitive Ark <mark style="color:green;">**OG**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (two weeks prior to gen0 release). If there is some A.N.I.M.A left to mint, it will be open for the public to mint.
 
