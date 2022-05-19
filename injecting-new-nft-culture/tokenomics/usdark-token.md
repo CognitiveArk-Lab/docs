@@ -2,7 +2,11 @@
 
 ## <mark style="color:yellow;">$ARK Token</mark>
 
-$ARK token is the governance token for TCA ecosystem. $ARK can be staked to collect a portion of the protocol multi-chain investment program. The total maximum supply of $ARK is capped at _**7,000,000**_ tokens.
+$ARK token is the governance token for TCA ecosystem. $ARK can be staked to collect a portion of the protocol multi-chain investment program.&#x20;
+
+{% hint style="success" %}
+_The total maximum supply of $ARK is capped at **7,000,000** tokens._
+{% endhint %}
 
 ![](<../../.gitbook/assets/$ARK Token Distribution.png>)
 
