@@ -40,7 +40,7 @@ CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a c
 
 ![A player stake a  Memory on Timeline#1](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
 
-{% hint style="info" %}
+{% hint style="success" %}
 _Some Panels will have hints on it; if you can fulfill the requirements, you will score more points, and if you stake the accurate rarity, you get $ARK multiplier as long as the panel is still active._
 {% endhint %}
 
