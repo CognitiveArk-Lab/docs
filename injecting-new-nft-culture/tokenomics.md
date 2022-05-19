@@ -43,7 +43,7 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
 
 {% hint style="info" %}
-_$ARK_&#x20;
+_$ARK token can only be obtained by staking Memory into the_ [_Timeline_](gamification.md#the-timeline-comic-template)_._
 {% endhint %}
 
 ## <mark style="color:yellow;"></mark>
