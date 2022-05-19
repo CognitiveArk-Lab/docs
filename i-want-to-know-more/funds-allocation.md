@@ -42,6 +42,7 @@ ArkDAO will have the capacity to decide how the Colony will spend the Treasury. 
 * _Buyback program (Raising Memory floor price)_
 * _Boost the Reward Pool_
 * _Investing in new emerging projects_
+* _Donate to a charity_
 
 ## <mark style="color:yellow;">Multichain Investment Program (MIP) 📈</mark>
 
@@ -64,10 +65,10 @@ With the Colony behind the Treasury, we will discover the best yet safest invest
 _15% from Treasury will be invested in emerging projects that are chosen by the ArkDAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
-Each month MIP yield will be distributed to:
+Each month MIP yield will be distributed as follows:
 
-* _60% back to the Treasury_
-* _20% Reward Pool_
+* _60% Ark Vault_
+* _20% Back to Treasury_
 * _20% Team_
 
 ## <mark style="color:yellow;">Operational Funds💼</mark>

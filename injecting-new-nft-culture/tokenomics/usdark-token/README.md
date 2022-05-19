@@ -15,7 +15,7 @@ _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 $ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$SOL LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
 
 {% hint style="info" %}
-_TCA Vault will be opened for stakers after 1 month of conducting the colony_ [_Multichain Investment Program._](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)__
+_TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
 {% endhint %}
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
