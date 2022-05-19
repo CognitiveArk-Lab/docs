@@ -40,6 +40,10 @@ CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a c
 
 ![A player stake a  Memory on Timeline#1](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
 
+{% hint style="info" %}
+_Some Panels will have hints on it; if you can fulfill the requirements, you will score more points, and if you stake the accurate rarity, you get $ARK multiplier as long as the panel is still active._
+{% endhint %}
+
 #### 2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
 
 ![](<../.gitbook/assets/Gamification - Frame 1 (3).gif>)
@@ -55,7 +59,7 @@ The Team will update the new Timeline on the website by the end of each cycle.
 **One cycle of Timeline will last for two weeks**. Each Timeline will have one or more empty panels. The panels will feature a side quest that gives players bonus points and $ARK multiplier. After the cycles ended, the Lore Master will assess all players' interpretations and give up to 30 points to the closest accurate narration.
 
 {% hint style="success" %}
-_Make sure you put your Memory in the right slot to get bonus points and a reward multiplier to amplify your $ARK gain._
+_Make sure you put your Memory in the right panel to get bonus points and a reward multiplier to amplify your $ARK gain._
 {% endhint %}
 
 ### Points
@@ -70,22 +74,6 @@ The goal is to score the highest points by the end of each cycle. If there are t
 ### Leaderboard
 
 The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
-
-## <mark style="color:yellow;">Colony Lottery 🍀</mark>
-
-Colony Lottery will be happening one week after each Timeline cycle ends. So there will be 2 Colony Raffles each month in total. Each Colony can swap their $ARK for Colony Lottery Ticket (CLT). There is currently no limit on how many CLTs each wallet can use for each raffle.
-
-{% hint style="success" %}
-_**Ten lucky Colonies** will be randomly selected and will get $SOL airdrop._
-{% endhint %}
-
-> _Colony Lottery Ticket price will be set to **1 CLT = 10 $ARK**_
-
-{% hint style="info" %}
-_There is no correct answer on when you will spend your $ARK for CLT. You can always participate in each raffle or skip 1 Colony Lottery to get a better chance at the next one. It will depend on your strategy._
-{% endhint %}
-
-Learn more about the Colony Lottery Pools in [Reward System](reward-system.md#3.-colony-lottery-pool).
 
 ## <mark style="color:yellow;">**TL;DR**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🐌</mark>
 

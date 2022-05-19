@@ -26,6 +26,10 @@ $ARK is TCA native governance token and anyone can stake $ARK as a single asset 
 
 * 560,000 $ARK tokens are reserved for upcoming partnerships and incentivize future partners to grow and thrive together with TCA ecosystem.
 
+{% hint style="info" %}
+The Funds will be&#x20;
+{% endhint %}
+
 ### 3. Vested Team Funds - 10% (700,000 $ARK)
 
 * We are here to develop further and push NFT boundaries, meaning we commit ourselves to build with our community.&#x20;
