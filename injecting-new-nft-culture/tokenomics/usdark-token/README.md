@@ -12,7 +12,11 @@ _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 
 ## <mark style="color:yellow;">Utilities</mark>
 
-$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$SOL LP token in TCA vault to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multi-chain investment program.
+$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$SOL LP token in TCA Vault to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
+
+{% hint style="info" %}
+_TCA Vault will be opened for stakers after 1 month of conducting the colony_ [_Multichain Investment Program._](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)__
+{% endhint %}
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
 
@@ -54,6 +58,15 @@ _After the initial mint of 20%, the remaining total supply will be emitted over 
 * ArkDAO will have the opportunity to decide where to spend the Treasury Funds
 * TCA Team will not ever use nor take advantage of Treasury Funds
 * After we are well established, the Treasury Funds will be secured by 3/4 multisig wallet, consisting of 1 TCA Team member and 3 well-known community members
+
+## <mark style="color:yellow;">TCA Vaults</mark>
+
+In the beginning, we will launch 2 Vaults:
+
+1. Single staking $ARK
+2. $ARK-$SOL LP token staking
+
+TCA Vault is a smart contract that holds generated yields from the colony MIP, distributing them among the Vault stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the [Swap Fee](./#swap-fees) earned in TCA ecosystem.
 
 ## <mark style="color:yellow;">Swap Fees</mark>
 

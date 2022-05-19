@@ -73,12 +73,12 @@ The goal is to score the highest points by the end of each cycle. If there are t
 
 ### Leaderboard
 
-The Leaderboard will show the current points and the total points from previous Timeline cycles. The Team will update it four days after the end of each Timeline cycle (2 weeks). Users who score the most points on that Timeline will win the game.
+The Leaderboard will show the current points and the total points from previous Timeline cycles. It will take up to four days after the end of each Timeline cycle to update the Leaderboard. Users who score the most points on that Timeline will win the game.
 
 ## <mark style="color:yellow;">**TL;DR**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">🐌</mark>
 
 * Immerse yourself in the storyline
 * Stake your Memory in the Timeline
 * Score as many points as possible
-* Earn $ARK and $SOL as rewards (more information on [Reward System](reward-system.md#1.-reward-pool))
+* Earn $ARK and $USDC as rewards (more information on [Reward System](reward-system.md#1.-reward-pool))
 * Repeat 🔁

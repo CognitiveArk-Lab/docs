@@ -24,28 +24,30 @@ _**100%** of A.N.I.M.A sales proceeds will be directly going to Operational Fund
 
 ## <mark style="color:yellow;">Project Wallet 🚀</mark>
 
-Project Wallet will be maintained together by Ark-DAO and Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
+Project Wallet will be maintained together by ArkDAO and TCA Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
 
 {% hint style="success" %}
-_In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of Sol-verse._
+_In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of the universe._
 {% endhint %}
 
 ![70% of the minting proceeds will fund Project Wallet](<../.gitbook/assets/Finance - Project Wallet (1).jpg>)
 
 ## <mark style="color:yellow;">Treasury 💵</mark>
 
-The first allocation from minting proceeds that arrived in the Treasury will fund the Colony Investment Program (MIP), which Ark-DAO will afterward oversee.
+The first allocation from minting proceeds that arrived in the Treasury will fund the colony [Multichain Investment Program (MIP)](funds-allocation.md#multichain-investment-program-mip), which ArkDAO will afterward oversee.
 
-Ark-DAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
+ArkDAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
 
-* _Reinvest in Colony Investment Program_
+* _Reinvest in colony Multichain Investment Program_
 * _Buyback program (Raising Memory floor price)_
 * _Boost the Reward Pool_
-* _Boost the Colony Lottery Pool_
+* _Investing in new emerging projects_
 
 ## <mark style="color:yellow;">Multichain Investment Program (MIP) 📈</mark>
 
-MIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the importance of having a Treasury backed by diverse assets from different ecosystems, ensuring the flexibility to catch opportunities on many chains, and having extra security when it comes to unwanted events like what happened on Terra lately. With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
+MIP is a yield farming strategy leveraging the borderless DeFi ecosystem. We emphasize the importance of having a Treasury backed by diverse assets from different ecosystems, ensuring the flexibility to catch opportunities on many chains, and having extra security when it comes to unwanted events like a specific chain exploits or avoiding a Bank run.
+
+With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 **The first MIP allocation is as follows:**
 
@@ -59,7 +61,7 @@ MIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the 
   * 15% into community chosen projects.
 
 {% hint style="info" %}
-_15% from Treasury will be invested in emerging projects that are chosen by the Ark-DAO. The Colony will be able to submit a proposal after our initial minting phase is over._
+_15% from Treasury will be invested in emerging projects that are chosen by the ArkDAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
 Each month MIP yield will be distributed to:
@@ -90,13 +92,13 @@ We will use the Marketing funds to expand our exposure to other communities. The
 
 What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on CognitiveArk Tees, Caps, Art prints, and many more!&#x20;
 
-We will funnel the profits back into the Treasury and Project Wallet and increase our existence in both the digital and real world.
+The payment will be on-chain and the profits will go back into the Treasury and Project Wallet and increase our presence in both the digital and real world.
 
 ## <mark style="color:yellow;">Reward Pool</mark>
 
 ### Reward Pool source of funds:
 
-* 20% from secondary sales [Royalties](funds-allocation.md#royalty)
+* 30% from secondary sales [Royalties](funds-allocation.md#royalty)
 * 20% from [Colony Investment Program (MIP)](funds-allocation.md#colony-investment-program-cip)
 
 {% hint style="info" %}
@@ -104,13 +106,6 @@ _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward p
 {% endhint %}
 
 ![The reward is subject to change depending on source funds](<../.gitbook/assets/Finance - Reward Pool.jpg>)
-
-## <mark style="color:yellow;">Lottery Pool</mark>
-
-### Colony Lottery source of funds:
-
-* 20% from secondary sales [Royalties](funds-allocation.md#royalty)
-* 10% from [Colony Investment Program (MIP)](funds-allocation.md#colony-investment-program-cip)
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
 
@@ -137,7 +132,3 @@ The royalty distribution is based on the secondary marketplace:
 * 1,0% to Team
 
 </details>
-
-\
-
-
