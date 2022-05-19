@@ -2,13 +2,17 @@
 
 ## <mark style="color:yellow;">$ARK Token</mark>
 
-$ARK token is the governance token for TCA ecosystem. $ARK can be staked to collect a portion of the protocol multi-chain investment program.&#x20;
+$ARK token is the governance token for TCA ecosystem and can only be obtained by staking Memory into the Timeline.&#x20;
 
 {% hint style="success" %}
 _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 {% endhint %}
 
 ![](<../../.gitbook/assets/$ARK Token Distribution.png>)
+
+## <mark style="color:yellow;">Utilities</mark>
+
+$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$SOL LP token in TCA vault to exercise the rights to vote/create proposals for [Treasury Funds](../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multi-chain investment program.
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
 
