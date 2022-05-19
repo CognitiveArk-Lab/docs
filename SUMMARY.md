@@ -7,6 +7,7 @@
 * [📜 Story and Lore](injecting-new-nft-culture/story-and-lore.md)
 * [🎮 Gamification](injecting-new-nft-culture/gamification.md)
 * [🪙 Tokenomics](injecting-new-nft-culture/tokenomics.md)
+  * [$ARK Token](injecting-new-nft-culture/tokenomics/usdark-token.md)
   * [Emission Schedule](injecting-new-nft-culture/tokenomics/emission-schedule.md)
 * [🎯 Reward System](injecting-new-nft-culture/reward-system.md)
 
