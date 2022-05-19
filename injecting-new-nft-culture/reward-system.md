@@ -8,6 +8,8 @@ Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly L
 
 {% hint style="success" %}
 _There will be a reward of **$1,000.00** or **more** available for **10 players** who score the most points each cycle._
+
+_The reward will be paid out in form of **$USDC**_
 {% endhint %}
 
 ### Timeline winners allocation:

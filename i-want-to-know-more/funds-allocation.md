@@ -64,9 +64,8 @@ _15% from Treasury will be invested in emerging projects that are chosen by the 
 
 Each month MIP yield will be distributed to:
 
-* _50% back to the Treasury_
+* _60% back to the Treasury_
 * _20% Reward Pool_
-* _10% Colony Lottery_
 * _20% Team_
 
 ## <mark style="color:yellow;">Operational Funds💼</mark>
