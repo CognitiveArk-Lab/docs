@@ -43,11 +43,11 @@ Ark-DAO will have the capacity to decide how the Colony will spend the Treasury.
 * _Boost the Reward Pool_
 * _Boost the Colony Lottery Pool_
 
-## <mark style="color:yellow;">Colony Investment Program (CIP) 📈</mark>
+## <mark style="color:yellow;">Multichain Investment Program (MIP) 📈</mark>
 
-CIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the importance of having a Treasury backed by diverse assets from different ecosystems, ensuring the flexibility to catch opportunities on many chains, and having extra security when it comes to unwanted events like what happened on Terra lately. With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
+MIP is a yield farming strategy leveraging the DeFi ecosystem. We emphasize the importance of having a Treasury backed by diverse assets from different ecosystems, ensuring the flexibility to catch opportunities on many chains, and having extra security when it comes to unwanted events like what happened on Terra lately. With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
-**The first CIP allocation is as follows:**
+**The first MIP allocation is as follows:**
 
 * **40% into Solana ecosystem**
   * 20% into [SOL lending](https://francium.io/app/lend) pools on Francium.&#x20;
