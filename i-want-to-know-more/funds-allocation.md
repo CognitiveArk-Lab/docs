@@ -58,17 +58,17 @@ With the Colony behind the Treasury, we will discover the best yet safest invest
 * **60% into other ecosystem**
   * Binance - 20% into [BUSD-BNB LP](https://pancakeswap.finance/info/pool/0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16) farm on PancakeSwap.
   * Avalanche - 15% into [AVAX-ETH LP](https://yieldyak.com/farms/detail/0x5219558ee591b030E075892acc41334A1694fd8A) farm on YieldYak.
-  * Fantom - 10% into [USDC-FTM LP](https://info.spooky.fi/home) farm on SpookySwap.
-  * 15% into community chosen projects.
+  * Fantom - 10% into [USDC-FTM LP](https://info.spooky.fi/) farm on SpookySwap.
+  * Arbitrum - 15% into[ USDT-BTC-ETH](https://app.beefy.finance/#/arbitrum/vault/curve-arb-tricrypto) farm on Curve.
 
 {% hint style="info" %}
-_15% from Treasury will be invested in emerging projects that are chosen by the ArkDAO. The Colony will be able to submit a proposal after our initial minting phase is over._
+_Funds from Treasury will be invested in emerging projects that are chosen by the ArkDAO. The Colony will be able to submit a proposal after our initial minting phase is over._
 {% endhint %}
 
 Each month MIP yield will be distributed as follows:
 
-* _60% Ark Vault_
-* _20% Back to Treasury_
+* _40% Back to Treasury_
+* _40% Ark Vault_
 * _20% Team_
 
 ## <mark style="color:yellow;">Operational Funds💼</mark>
@@ -118,8 +118,9 @@ The royalty distribution is based on the secondary marketplace:
 
 <summary><a href="https://magiceden.io/">Magic Eden</a> <strong>(5%)</strong></summary>
 
-* 2,5% to Project Wallet
-* 1,5% to Reward Pool
+* 2,0% to Project Wallet
+* 1,0% to Reward Pool
+* 1,0% to Ark Vault
 * 1,0% to Team
 
 </details>

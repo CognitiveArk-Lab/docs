@@ -2,7 +2,7 @@
 
 ## <mark style="color:yellow;">$ARK Token</mark>
 
-$ARK token is the governance token for TCA ecosystem and can only be obtained by staking Memory into the Timeline.&#x20;
+$ARK token is the governance token for TCA ecosystem and can **only be minted** by staking Memory into the Timeline.&#x20;
 
 {% hint style="success" %}
 _The total maximum supply of $ARK is capped at **7,000,000** tokens._
@@ -14,7 +14,7 @@ _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 
 $ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$SOL LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 _TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
 {% endhint %}
 
@@ -30,8 +30,8 @@ _TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Inv
 
 * 560,000 $ARK tokens are reserved for upcoming partnerships and incentivize future partners to grow and thrive together with TCA ecosystem.
 
-{% hint style="info" %}
-The Funds will be&#x20;
+{% hint style="success" %}
+_The Funds will be secured on the_ [_Operational Wallet_](../../../i-want-to-know-more/funds-allocation.md#operational-funds)_._
 {% endhint %}
 
 ### 3. Vested Team Funds - 10% (700,000 $ARK)
@@ -75,7 +75,7 @@ TCA will initially provide a Liquidity Pool for $ARK-$SOL. TCA **does not charge
 {% hint style="info" %}
 _The swap fee will be denominated in the input token._&#x20;
 
-_**Example:** Joe is swapping 1 $SOL for 10 $ARK; Joe will then have to pay the fee in $SOL which is 0,003 $SOL._
+_**Example:** Joe is swapping 1 $SOL for 100 $ARK; Joe will then have to pay the fee in $SOL which is 0,003 $SOL._
 {% endhint %}
 
 #### The swap fees will then be redistributed as follows:
