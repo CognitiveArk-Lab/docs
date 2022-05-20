@@ -15,7 +15,7 @@ description: >-
   * _20% to Operational Funds_
   * _80% to Treasury_
 * **2.5% to Reward Pool**
-* **2.5% to Charity Wallet**
+* **2.5% to Initial $ARK Liquidity Pool**
 * **25% to Team**
 
 {% hint style="info" %}
