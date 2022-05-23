@@ -35,9 +35,15 @@ _If you want to **bridge** your assets from other Blockchain, you can skip to pa
 
 <details>
 
-<summary>2. Buy  $SOL directly from FIAT/Exchanges <span data-gb-custom-inline data-tag="emoji" data-code="1f4b1">💱</span><strong>T</strong></summary>
+<summary>2. Buy  $SOL directly from FIAT/Exchanges <span data-gb-custom-inline data-tag="emoji" data-code="1f4b1">💱</span></summary>
 
-* **TBA**
+* **Open your Terra Station**
+
+****
+
+* **Choose your source of funds.**
+
+****
 
 </details>
 
@@ -86,8 +92,8 @@ We are launching on Solana in Q2 2022.
 
 ### <mark style="color:yellow;">5. What is the minting price?</mark>🔖
 
-* Whitelist: TBA (700 reserved for whitelists, 4 NFTs per whitelist)
-* Public: TBA (2200 NFTs, max 8 NFTs per wallet)
+* Whitelist: TBA (1000 reserved for whitelists, 4 NFTs per whitelist)
+* Public: TBA (2000 NFTs, max 8 NFTs per wallet)
 
 ##
 
