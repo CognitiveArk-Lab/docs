@@ -26,11 +26,11 @@ There are four rarities based on four types of Memory:
 * Memory of The Past (_Mystic_)
 * Memory of The Future (_Epic_)
 
-![](../.gitbook/assets/Memory.png)
+![](../../.gitbook/assets/Memory.png)
 
 ### The Timeline (Comic Template)
 
-![not the actual Timeline](../.gitbook/assets/Timeline.png)
+![not the actual Timeline](../../.gitbook/assets/Timeline.png)
 
 ## <mark style="color:yellow;">Game Mechanics ⚙️</mark>
 
@@ -38,7 +38,7 @@ CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a c
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
 
-![A player stake a  Memory on Timeline#1](<../.gitbook/assets/Gamification - Frame 1 (1).gif>)
+![A player stake a  Memory on Timeline#1](<../../.gitbook/assets/Gamification - Frame 1 (1).gif>)
 
 {% hint style="success" %}
 _Some Panels will have hints on it; if you can fulfill the requirements, you will score more points, and if you stake the accurate rarity, you get $ARK multiplier as long as the panel is still active._
@@ -46,7 +46,7 @@ _Some Panels will have hints on it; if you can fulfill the requirements, you wil
 
 #### 2. Choose a narrative bubble and drag it to the correct position. Each correct narrative bubble and each correct bubble position will give the player more points.
 
-![](<../.gitbook/assets/Gamification - Frame 1 (3).gif>)
+![](<../../.gitbook/assets/Gamification - Frame 1 (3).gif>)
 
 #### 3. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
 
@@ -80,5 +80,5 @@ The Leaderboard will show the current points and the total points from previous 
 * Immerse yourself in the storyline
 * Stake your Memory in the Timeline
 * Score as many points as possible
-* Earn $ARK and $USDC as rewards (more information on [Reward System](reward-system.md#1.-reward-pool))
+* Earn $ARK and $USDC as rewards (more information on [Reward System](../reward-system.md#1.-reward-pool))
 * Repeat 🔁
