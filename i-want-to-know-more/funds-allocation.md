@@ -51,7 +51,7 @@ MIP is a yield farming strategy leveraging the borderless DeFi ecosystem. We emp
 With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 {% hint style="danger" %}
-_The allocation for MIP on this page is not yet finalized and acts as an EXAMPLE, as we will have to always adapt to the current market narrative._&#x20;
+_The allocation for MIP on this page is **not yet finalized and acts as an EXAMPLE**, as we will have to always adapt to the current market narrative._&#x20;
 {% endhint %}
 
 **The first MIP allocation is as follows:**
@@ -59,7 +59,7 @@ _The allocation for MIP on this page is not yet finalized and acts as an EXAMPLE
 * **40% into Solana ecosystem**
   * 20% into [SOL lending](https://francium.io/app/lend) pools on Francium.&#x20;
   * 20% into [SOL-USDC LP](https://francium.io/app/invest/farm) farm on Francium.
-* **60% into other ecosystem**&#x20;
+* **60% into other ecosystems**&#x20;
   * Binance - 20% into [BUSD-BNB LP](https://pancakeswap.finance/info/pool/0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16) farm on PancakeSwap.
   * Avalanche - 15% into [AVAX-ETH LP](https://yieldyak.com/farms/detail/0x5219558ee591b030E075892acc41334A1694fd8A) farm on YieldYak.
   * Fantom - 10% into [USDC-FTM LP](https://info.spooky.fi/) farm on SpookySwap.
