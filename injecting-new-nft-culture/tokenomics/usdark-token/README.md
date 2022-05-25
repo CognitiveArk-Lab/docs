@@ -64,9 +64,9 @@ _After the initial mint of 20%, the remaining total supply will be emitted over 
 In the beginning, we will launch 2 Vaults:
 
 1. Single staking $ARK
-2. $ARK-$SOL LP token staking
+2. $ARK-$SOL LP-token staking
 
-TCA Vault is a smart contract that holds generated yields from the colony MIP, Minigames taxes and Royalty. Distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the [Swap Fee](./#swap-fees) earned in TCA ecosystem.
+TCA Vault is a smart contract that holds generated yields from the colony [_MIP_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
 
 ![Ark Vault funds allocation](<../../../.gitbook/assets/Finance - Ark Vault funds.jpg>)
 
