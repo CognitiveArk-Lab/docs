@@ -43,10 +43,15 @@ There are two types of staking:
     Earn $ARK for staking your Memory on the Timeline.
 *   <mark style="color:purple;">**$ARK Staking**</mark>
 
-    Earn a share of __ [_TCA Vault_](tokenomics/usdark-token/#tca-vaults) by staking $ARK as a single side asset or by staking LP-token.
+    Earn a share of __ [_TCA Vault_](tokenomics/usdark-token/#tca-vaults) by staking $ARK as a single side asset or by staking LP-token on ARK-Chamber.
 
 {% hint style="danger" %}
 _Staking Memory is the only way to mint $ARK from TCA ecosystem._
 {% endhint %}
 
-<mark style="color:purple;">****</mark>
+## <mark style="color:yellow;">TL;DR🐌</mark>
+
+* Participate in the gamification (Timeline) to earn $ARK
+* Score most points to have a chance of winning _Legendary Memory_
+* Get comic airdrop every 2 weeks
+* Stake $ARK on ARK-Chamber to get more rewards
