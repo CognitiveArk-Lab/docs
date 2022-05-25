@@ -131,7 +131,7 @@ The royalty distribution is based on the secondary marketplace:
 
 <details>
 
-<summary><strong>TBA (5%)</strong></summary>
+<summary><strong></strong><a href="https://opensea.io/"><strong>OpenSea</strong></a> <strong>(5%)</strong></summary>
 
 * 2,0% to Project Wallet
 * 1,0% to Reward Pool

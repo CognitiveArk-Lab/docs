@@ -57,7 +57,7 @@ _After the initial mint of 20%, the remaining total supply will be emitted over 
 
 * ArkDAO will have the opportunity to decide where to spend the Treasury Funds
 * TCA Team will not ever use nor take advantage of Treasury Funds
-* After we are well established, the Treasury Funds will be secured by 3/4 multisig wallet, consisting of 1 TCA Team member and 3 well-known community members
+* After we are well established, the Treasury Funds will be secured by 4/5 multisig wallet, consisting of 2 TCA Team members and 3 well-known community members
 
 ## <mark style="color:yellow;">TCA Vaults</mark>
 
