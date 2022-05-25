@@ -33,3 +33,20 @@ Every two weeks, we will conclude the Timeline cycle and announce the winner to 
 *   <mark style="color:purple;">**Comic Chapter Airdrops**</mark>
 
     Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
+
+## <mark style="color:yellow;">3. Staking Reward</mark>
+
+There are two types of staking:
+
+*   <mark style="color:purple;">**NFT Staking**</mark>
+
+    Earn $ARK for staking your Memory on the Timeline.
+*   <mark style="color:purple;">**$ARK Staking**</mark>
+
+    Earn a share of __ [_TCA Vault_](tokenomics/usdark-token/#tca-vaults) by staking $ARK as a single side asset or by staking LP-token.
+
+{% hint style="danger" %}
+_Staking Memory is the only way to mint $ARK from TCA ecosystem._
+{% endhint %}
+
+<mark style="color:purple;">****</mark>
