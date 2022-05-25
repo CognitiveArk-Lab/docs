@@ -18,6 +18,12 @@ $ARK is TCA native governance token and anyone can stake $ARK as a single asset 
 _TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
 {% endhint %}
 
+Other things you can do with $ARK:
+
+* Buy raffle tickets to have a chance of getting NFTs / $SOL
+* Buy whitelist tickets for partner projects
+* and many more to come
+
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
 
 #### The initial mint of $ARK token is 20% of the total maximum supply, and will be distributed as follows:
