@@ -30,7 +30,7 @@ Other things you can do with $ARK:
 
 ### 1. Initial Liquidity Pool - 2% (140,000 $ARK)
 
-* 140,000 $ARK will be paired with $10,000 worth of $SOL (with a weighted pool of 80/20)
+* 140,000 $ARK will be paired with $10,000 worth of $SOL
 
 ### 2. Strategic Partnership - 8% (560,000 $ARK)
 
