@@ -65,14 +65,16 @@ _After the initial mint of 20%, the remaining total supply will be emitted over 
 * TCA Team will not ever use nor take advantage of Treasury Funds
 * After we are well established, the Treasury Funds will be secured by 4/5 multisig wallet, consisting of 2 TCA Team members and 3 well-known community members
 
-## <mark style="color:yellow;">TCA Vaults</mark>
+## <mark style="color:yellow;">ARK Chamber</mark>
 
-In the beginning, we will launch 2 Vaults:
+ARK Chamber is a place for $ARK holders to stake their $ARK to earn a share of our TCA Vault.
+
+In the beginning, we will launch 2 Vaults in ARK Chamber:
 
 1. Single staking $ARK
 2. $ARK-$SOL LP-token staking
 
-TCA Vault is a smart contract that holds generated yields from the colony [_MIP_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
+TCA Vault is a smart contract that holds generated yields from the colony [_MIP (Multichain Investment Program)_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
 
 ![Ark Vault funds allocation](<../../../.gitbook/assets/Finance - Ark Vault funds.jpg>)
 
