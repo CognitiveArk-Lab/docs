@@ -22,6 +22,7 @@ Other things you can do with $ARK:
 
 * Buy raffle tickets to have a chance of getting NFTs / $SOL
 * Buy whitelist tickets for partner projects
+* Exclusive upcoming TCA NFT releases
 * and many more to come
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
@@ -67,7 +68,14 @@ _After the initial mint of 20%, the remaining total supply will be emitted over 
 
 ## <mark style="color:yellow;">ARK-Chamber</mark>
 
-ARK-Chamber is a place for $ARK holders to stake their $ARK to earn a share of our TCA Vault.
+ARK-Chamber is a place for $ARK holders to spend or stake their $ARK to earn a share of our TCA Vault.
+
+Spend your $ARK for:
+
+* Buy raffle tickets to have a chance of getting NFTs / $SOL
+* Buy whitelist tickets for partner projects
+* Exclusive upcoming TCA NFT releases
+* and many more to come
 
 In the beginning, there will be 2 types of staking in ARK-Chamber:
 
