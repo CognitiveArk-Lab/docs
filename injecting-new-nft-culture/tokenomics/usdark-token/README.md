@@ -12,7 +12,7 @@ _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 
 ## <mark style="color:yellow;">Utilities</mark>
 
-$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$SOL LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
+$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$USDC LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
 
 {% hint style="warning" %}
 _TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
@@ -31,7 +31,7 @@ Other things you can do with $ARK:
 
 ### 1. Initial Liquidity Pool - 2% (140,000 $ARK)
 
-* 140,000 $ARK will be paired with $10,000 worth of $SOL
+* 140,000 $ARK will be paired with 10,000 $USDC.
 
 ### 2. Strategic Partnership - 8% (560,000 $ARK)
 
@@ -80,7 +80,7 @@ Spend your $ARK for:
 In the beginning, there will be 2 types of staking in ARK-Chamber:
 
 1. Single staking $ARK
-2. $ARK-$SOL LP-token staking
+2. $ARK-$USDC LP-token staking
 
 **TCA Vault** is a smart contract that holds generated yields from the colony [_MIP (Multichain Investment Program)_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
 
@@ -88,12 +88,12 @@ In the beginning, there will be 2 types of staking in ARK-Chamber:
 
 ## <mark style="color:yellow;">Swap Fees</mark>
 
-TCA will initially provide a Liquidity Pool for $ARK-$SOL. TCA **does not charge any protocol fee** for this Pool; however, there will be a **0,30% swap fee** to incentive the Liquidity Provider. Anyone who has $ARK or $SOL can participate in the $ARK-$SOL liquidity pool.&#x20;
+TCA will initially provide a Liquidity Pool for $ARK-$USDC. TCA **does not charge any protocol fee** for this Pool; however, there will be a **0,30% swap fee** to incentive the Liquidity Provider. Anyone who has $ARK or $USDC can participate in the $ARK-$USDC liquidity pool.&#x20;
 
 {% hint style="info" %}
 _The swap fee will be denominated in the input token._&#x20;
 
-_**Example:** Joe is swapping 1 $SOL for 100 $ARK; Joe will then have to pay the fee in $SOL which is 0,003 $SOL._
+_**Example:** Joe is swapping 100 $USDC for 1000 $ARK; Joe will then have to pay the fee in $USDC which is 0,300 $USDC._
 {% endhint %}
 
 #### The swap fees will then be redistributed as follows:
