@@ -27,13 +27,13 @@ Other things you can do with $ARK:
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
 
-#### The initial mint of $ARK token is 20% of the total maximum supply, and will be distributed as follows:
+#### The initial mint of $ARK token is 25% of the total maximum supply, and will be distributed as follows:
 
-### 1. Initial Liquidity Pool - 2% (140,000 $ARK)
+### 1. Initial Liquidity Pool - 10% (700,000 $ARK)
 
-* 140,000 $ARK will be paired with 10,000 $USDC.
+* 700,000 $ARK will be paired with 10,000 $USDC.
 
-### 2. Strategic Partnership - 8% (560,000 $ARK)
+### 2. Strategic Partnership - 5% (350,000 $ARK)
 
 * 560,000 $ARK tokens are reserved for upcoming partnerships and incentivize future partners to grow and thrive together with TCA ecosystem.
 
@@ -47,20 +47,20 @@ _The Funds will be secured on the_ [_Operational Wallet_](../../../i-want-to-kno
 * 5% initial allowance (35,000 $ARK) and 95% (665,000 $ARK) will be vested linearly over two years. This will incentivize the team to continue innovating, building, and expanding more use cases for the $ARK token.
 
 {% hint style="info" %}
-_From the total initial mint of 20%, **only 2,5%** will circulate upon launching._
+_From the total initial mint of 20%, **only 10,5% (10% Liquidity Pool + 0,5% Team initial allowance)** will circulate upon launching._
 {% endhint %}
 
 ## <mark style="color:yellow;">Token Emissions</mark>
 
 {% hint style="success" %}
-_After the initial mint of 20%, the remaining total supply will be emitted over two years (see_ [_Emission Schedule_](emission-schedule.md)_)._
+_After the initial mint of 25%, the remaining total supply will be emitted over two years (see_ [_Emission Schedule_](emission-schedule.md)_)._
 {% endhint %}
 
 ### Memory Staking Reward - 70% (4,900,000 $ARK)
 
 * Distributed directly to _**Memory stakers**_
 
-### Treasury Funds - 10% (700,000 $ARK)
+### Treasury Funds - 5% (350,000 $ARK)
 
 * ArkDAO will have the opportunity to decide where to spend the Treasury Funds
 * TCA Team will not ever use nor take advantage of Treasury Funds
