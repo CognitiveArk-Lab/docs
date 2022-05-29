@@ -20,9 +20,9 @@ _TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Inv
 
 Other things you can do with $ARK:
 
-* Buy raffle tickets to have a chance of getting NFTs / $SOL
+* Buy raffle tickets to have a chance of getting NFTs
 * Buy whitelist tickets for partner projects
-* Exclusive upcoming TCA NFT releases
+* Swap it for an exclusive upcoming TCA NFT releases
 * and many more to come
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
