@@ -68,7 +68,7 @@ _After the initial mint of 25%, the remaining total supply will be emitted over 
 
 ## <mark style="color:yellow;">ARK-Chamber</mark>
 
-ARK-Chamber is a place for $ARK holders to spend or stake their $ARK to earn a share of our TCA Vault.
+ARK-Chamber is a place for $ARK holders to spend or stake their $ARK to earn a share of TCA project revenue from _**Ark Vault**_.
 
 Spend your $ARK for:
 
