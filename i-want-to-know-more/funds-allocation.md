@@ -51,7 +51,7 @@ MIP is a yield farming strategy leveraging the borderless DeFi ecosystem. We emp
 With the Colony behind the Treasury, we will discover the best yet safest investment on each chain. Use your DeFi knowledge to propose or vote for the best yield farming strategy to expand our Colony economy!
 
 {% hint style="danger" %}
-_The allocation for MIP on this page is **not yet finalized and acts as an EXAMPLE**, as we will have to always adapt to the current market narrative._&#x20;
+_<mark style="color:red;">The allocation for MIP on this page is</mark> <mark style="color:red;"></mark><mark style="color:red;">**not yet finalized and acts as an EXAMPLE**</mark><mark style="color:red;">, as we will have to always adapt to the current market narrative.</mark>_&#x20;
 {% endhint %}
 
 **The first MIP allocation is as follows:**
