@@ -95,7 +95,7 @@ We will use the Marketing funds to expand our exposure to other communities. The
 
 ### Merch Store 🛍️
 
-What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on CognitiveArk Tees, Caps, Art prints, and many more!&#x20;
+What about having our Merch Store that integrates cryptocurrency as the primary payment system? Get your hands on The Cognitive Ark Tees, Caps, Art prints, and many more!&#x20;
 
 The payment will be on-chain and the profits will go back into the Treasury and Project Wallet and increase our presence in both the digital and real world.
 
@@ -103,8 +103,8 @@ The payment will be on-chain and the profits will go back into the Treasury and 
 
 ### Reward Pool source of funds:
 
-* 30% from secondary sales [Royalties](funds-allocation.md#royalty)
-* 20% from [Colony Investment Program (MIP)](funds-allocation.md#colony-investment-program-cip)
+* 2,5% from initial minting proceeds
+* 20% from secondary sales [Royalties](funds-allocation.md#royalty)
 
 {% hint style="info" %}
 _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and MIP arrive in the Reward Pool Wallet._

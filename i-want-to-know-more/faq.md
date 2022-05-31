@@ -2,10 +2,10 @@
 
 ## INDEX
 
-1. [Where can I learn more about Solana?](faq.md#1.-where-can-i-learn-more-about-terra):full\_moon:
-2. [I'm new! How can I join the Solana ecosystem?](faq.md#2.-im-new-how-can-i-join-the-terra-ecosystem)🌌
-3. [Wen launch ser?](faq.md#4.-wen-launch) :calendar\_spiral:
-4. [How to get Whitelist?](faq.md#how-to-get-whitelist) 🛸
+1. [Where can I learn more about Solana?](faq.md#1.-where-can-i-learn-more-about-solana):full\_moon:
+2. [I'm new! How can I join the Solana ecosystem?](faq.md#2.-im-new-how-can-i-join-the-solana-ecosystem)🌌
+3. [Wen launch ser?](faq.md#3.-wen-launch) :calendar\_spiral:
+4. [How to get Whitelist?](faq.md#4.-how-to-get-whitelist) 🛸
 5. [What is the minting price?](faq.md#5.-what-is-the-minting-price) 🔖
 
 ### <mark style="color:yellow;">1. Where can I learn more about Solana?</mark>:full\_moon:
@@ -63,7 +63,7 @@ _If you want to **bridge** your assets from other Blockchain, you can skip to pa
 
 ### <mark style="color:yellow;">3. Wen launch?</mark> 📅
 
-We are launching on Solana in Q2 2022.
+We are launching on Solana in Q3 2022.
 
 ### <mark style="color:yellow;">4. How to get Whitelist?</mark> 🛸
 
