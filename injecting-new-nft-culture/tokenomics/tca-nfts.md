@@ -16,7 +16,7 @@ First phase of The Cognitive Ark will be started by releasing _**100 exclusive N
 
 ![A.N.I.M.A NFT](../../.gitbook/assets/ANIMA-BATCH-GIF.gif)
 
-The Cognitive Ark <mark style="color:yellow;">**OG-Colony**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (two weeks prior to gen0 release). If there is some A.N.I.M.A left to mint, it will be open for the public to mint.
+The Cognitive Ark <mark style="color:yellow;">**OG-Colony**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (prior to gen0 release). If there is some A.N.I.M.A left to mint, it will be open for the public to mint.
 
 The benefits for holding A.N.I.M.A is as follows:
 
