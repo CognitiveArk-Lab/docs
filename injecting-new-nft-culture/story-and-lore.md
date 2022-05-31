@@ -1,6 +1,6 @@
 # 📜 Story and Lore
 
-{% embed url="https://www.youtube.com/watch?v=eDcUBM7Gj-A" %}
+{% embed url="https://www.youtube.com/watch?v=-jJHfMPA8_E" %}
 _The Cognitive Ark - Teaser Trailer_
 {% endembed %}
 
