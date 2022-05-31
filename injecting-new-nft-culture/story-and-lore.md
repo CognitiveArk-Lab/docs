@@ -27,13 +27,13 @@ As the Earth started to lose its life force and resources, the remaining human b
 
 
 {% hint style="info" %}
-_**Lore Update**: The lore will be updated on Cognitive Ark Discord every week._\
+_**Lore Update**: The lore will be updated on The Cognitive Ark Discord every week._\
 __\
-___**Story Update**: Story progression will be revealed after the conclusion of each gamification_ [_Timeline_](gamification/#the-timeline) _(2 weeks) and will be updated on Cognitive Ark official website and Discord._
+___**Story Update**: Story progression will be revealed after the conclusion of each gamification_ [_Timeline_](gamification/#the-timeline) _(2 weeks) and will be updated on The Cognitive Ark official website and Discord._
 {% endhint %}
 
 {% hint style="success" %}
-_**Cognitive Ark NFT** emphasizes the narrative story and its lore._
+_**The Cognitive Ark NFT** emphasizes the narrative story and its lore._
 
 _See_ [_gamification_ ](gamification/#getting-started)_to learn more about your role in the story._
 {% endhint %}
