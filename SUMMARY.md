@@ -5,11 +5,11 @@
 ## 🌏 INJECTING NEW NFT CULTURE
 
 * [📜 Story and Lore](injecting-new-nft-culture/story-and-lore.md)
+* [🖼 TCA NFTs](injecting-new-nft-culture/tca-nfts.md)
 * [🎮 Gamification](injecting-new-nft-culture/gamification/README.md)
   * [🎲 TCA Minigames](injecting-new-nft-culture/gamification/tca-minigames.md)
 * [🎯 Reward System](injecting-new-nft-culture/reward-system.md)
 * [📈 Tokenomics](injecting-new-nft-culture/tokenomics.md)
-  * [🖼 TCA NFTs](injecting-new-nft-culture/tokenomics/tca-nfts.md)
   * [🪙 $ARK Token](injecting-new-nft-culture/tokenomics/usdark-token/README.md)
     * [Emission Schedule](injecting-new-nft-culture/tokenomics/usdark-token/emission-schedule.md)
 
