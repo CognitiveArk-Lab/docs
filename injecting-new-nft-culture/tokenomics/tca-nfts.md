@@ -14,7 +14,7 @@ First phase of The Cognitive Ark will be started by releasing _**100 exclusive N
 
 
 
-The Cognitive Ark <mark style="color:green;">**OG**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (two weeks prior to gen0 release). If there is some A.N.I.M.A left to mint, it will be open for the public to mint.
+The Cognitive Ark <mark style="color:yellow;">**OG-Colony**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (two weeks prior to gen0 release). If there is some A.N.I.M.A left to mint, it will be open for the public to mint.
 
 The benefits for holding A.N.I.M.A is as follows:
 
@@ -35,6 +35,8 @@ CognitiveArk gen0 named "**Memory**" initiated. The Ark will soon release **3050
 * 100 Memories reserved for A.N.I.M.A holder
 * 50 Memories reserved for Giveaway and Partnership program
 
+![Gen0 Memories](../../.gitbook/assets/GEN-0-GIF.gif)
+
 ### Utilities
 
 All of the gen0 **Memory** will possess these fundamental utilities:
@@ -53,5 +55,5 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
 
 {% hint style="info" %}
-_$ARK token can only be obtained by staking Memory into the_ [_Timeline_](../gamification/#the-timeline-comic-template)_. Check out_ [_$ARK Tokenomics_](usdark-token/#usdark-token)_._
+_$ARK token can only be minted by staking Memory into the_ [_Timeline_](../gamification/#the-timeline-comic-template)_. Check out_ [_$ARK Tokenomics_](usdark-token/#usdark-token)_._
 {% endhint %}
