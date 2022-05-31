@@ -48,5 +48,4 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 * Memory can be staked to earn $ARK
 * Ability to become a member of the Colony council for ArkDAO
 * Access unique role on Discord
-* Gamification V2 benefits
 
