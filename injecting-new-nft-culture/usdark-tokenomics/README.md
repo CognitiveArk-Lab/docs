@@ -15,14 +15,14 @@ _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 $ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$USDC LP token in [ARK-Chamber](./#ark-chamber) to exercise the rights to vote/create proposals for [Treasury Funds](../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
 
 {% hint style="warning" %}
-_ARK-Chamber will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
+_ARK-Chamber will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for $ARK stakers._
 {% endhint %}
 
 Other things you can do with $ARK:
 
-* Buy raffle tickets to have a chance of getting NFTs
-* Buy whitelist tickets for partner projects
 * Swap it for an exclusive upcoming TCA NFT releases
+* Buy whitelist tickets for partner projects
+* Buy raffle tickets to have a chance of getting NFTs
 * and many more to come
 
 ## <mark style="color:yellow;">Initial Token Distribution</mark>
@@ -78,9 +78,9 @@ ARK-Chamber is a place for $ARK holders to spend or stake their $ARK to earn a s
 
 Spend your $ARK for:
 
-* Buy raffle tickets to have a chance of getting NFTs / $SOL
-* Buy whitelist tickets for partner projects
 * Exclusive upcoming TCA NFT releases
+* Buy whitelist tickets for partner projects
+* Buy raffle tickets to have a chance of getting NFTs / $SOL
 * and many more to come
 
 In the beginning, there will be 2 types of staking in ARK-Chamber:
@@ -88,7 +88,7 @@ In the beginning, there will be 2 types of staking in ARK-Chamber:
 1. Single staking $ARK
 2. $ARK-$USDC LP-token staking
 
-**TCA Vault** is a smart contract that holds generated yields from the colony [_MIP (Multichain Investment Program)_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
+**Ark Vault** is a smart contract that holds generated yields from the colony [_MIP (Multichain Investment Program)_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
 
 ![Ark Vault funds allocation](<../../.gitbook/assets/Finance - Ark Vault funds.jpg>)
 
