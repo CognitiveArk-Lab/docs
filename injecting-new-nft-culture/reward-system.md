@@ -52,7 +52,7 @@ _Staking Memory is the only way to mint $ARK from TCA ecosystem._
 ## <mark style="color:yellow;">TL;DR🐌</mark>
 
 * Participate in the gamification (Timeline) to earn $ARK
-* Score most points to have a chance of winning _Legendary Memory_
+* Score most points to have a chance of winning _<mark style="color:purple;">Legendary Memory</mark>_
 * Get comic airdrop every 2 weeks
 * Stake $ARK on [ARK-Chamber](tokenomics/usdark-token/#ark-chamber) to get more rewards
 * Repeat 🔁
