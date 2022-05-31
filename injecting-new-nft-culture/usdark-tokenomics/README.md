@@ -12,10 +12,10 @@ _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 
 ## <mark style="color:yellow;">Utilities</mark>
 
-$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$USDC LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
+$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$USDC LP token in [ARK-Chamber](./#ark-chamber) to exercise the rights to vote/create proposals for [Treasury Funds](../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
 
 {% hint style="warning" %}
-_TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
+_ARK-Chamber will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
 {% endhint %}
 
 Other things you can do with $ARK:
