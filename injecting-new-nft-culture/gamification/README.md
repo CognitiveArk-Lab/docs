@@ -14,7 +14,7 @@ _This mechanism will allow us to sustain the project and create an authentic com
 
 ## <mark style="color:yellow;">Getting Started 🧭</mark>
 
-The gamification system will be designed based on the stories and lore of the Cognitive Ark. The memory holder has to interpret the current Timeline and reveal the plot so the story can progress.
+The gamification system will be designed based on the stories and lore of The Cognitive Ark. The memory holder has to interpret the current _<mark style="color:yellow;">Timeline</mark>_ and reveal the plot so the story can progress.
 
 ### The Memory
 
