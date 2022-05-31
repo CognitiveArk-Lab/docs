@@ -114,7 +114,7 @@ _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward p
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
 
-80% of the royalties from the secondary NFT marketplace are distributed back to the community. It will be split directly into the [Project Wallet](funds-allocation.md#project-wallet), [Reward Pool](../injecting-new-nft-culture/reward-system.md#3.-staking-reward), and [Ark Vault](../injecting-new-nft-culture/tokenomics/usdark-token/#tca-vaults). Where the Colony can claim them as rewards on our Dashboard on the website.
+80% of the royalties from the secondary NFT marketplace are distributed back to the community. It will be split directly into the [Project Wallet](funds-allocation.md#project-wallet), [Reward Pool](../injecting-new-nft-culture/reward-system.md#3.-staking-reward), and [Ark Vault](../injecting-new-nft-culture/usdark-tokenomics/#tca-vaults). Where the Colony can claim them as rewards on our Dashboard on the website.
 
 The royalty distribution is based on the secondary marketplace:
 

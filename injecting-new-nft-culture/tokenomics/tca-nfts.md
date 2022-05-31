@@ -8,13 +8,13 @@ First phase of The Cognitive Ark will be started by releasing _**100 exclusive N
 
 
 
-![The A.N.I.M.A](<../.gitbook/assets/ANIMA Blueprint.png>)
+![The A.N.I.M.A](<../../.gitbook/assets/ANIMA Blueprint.png>)
 
 "_`Amongst the survivor who inhabited the mothership Messiah, some machine-like figure can be found roaming around over the years. With faces and emotions resemble human beings and even speak like one- almost exactly like a human with a different body. They don't appear so hostile; instead, they seem to help develop the colony. Yet, their origins remain a mystery.`_"
 
 
 
-![A.N.I.M.A NFT](../.gitbook/assets/ANIMA-BATCH-GIF.gif)
+![A.N.I.M.A NFT](../../.gitbook/assets/ANIMA-BATCH-GIF.gif)
 
 The Cognitive Ark <mark style="color:yellow;">**OG-Colony**</mark> will have the opportunity to _**pre-mint 1 A.N.I.M.A**_ (two weeks prior to gen0 release). If there is some A.N.I.M.A left to mint, it will be open for the public to mint.
 
@@ -30,14 +30,14 @@ The benefits for holding A.N.I.M.A is as follows:
 
 The Cognitive Ark gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate Solana Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
 
-![](<../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
+![](<../../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
 
 * 700 Memories reserved for Whitelist minting
 * 2200 Memories reserved for Public minting
 * 100 Memories reserved for A.N.I.M.A holder
 * 50 Memories reserved for Giveaway and Partnership program
 
-![Gen0 Memories](../.gitbook/assets/GEN-0-GIF.gif)
+![Gen0 Memories](../../.gitbook/assets/GEN-0-GIF.gif)
 
 ### Utilities
 
@@ -50,12 +50,3 @@ All of the gen0 **Memory** will possess these fundamental utilities:
 * Access unique role on Discord
 * Gamification V2 benefits
 
-### $ARK Distribution
-
-![](<../.gitbook/assets/Finance - ARK Pool.jpg>)
-
-There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
-
-{% hint style="info" %}
-_$ARK token can only be minted by staking Memory into the_ [_Timeline_](gamification/#the-timeline-comic-template)_. Check out_ [_$ARK Tokenomics_](tokenomics/usdark-token/#usdark-token)_._
-{% endhint %}

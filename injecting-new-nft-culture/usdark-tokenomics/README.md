@@ -1,4 +1,4 @@
-# 🪙 $ARK Token
+# 🪙 $ARK Tokenomics
 
 ## <mark style="color:yellow;">$ARK Token</mark>
 
@@ -8,14 +8,14 @@ $ARK token is the governance token for TCA ecosystem and can **only be minted** 
 _The total maximum supply of $ARK is capped at **7,000,000** tokens._
 {% endhint %}
 
-![](<../../../.gitbook/assets/$ARK Token Distribution.png>)
+![](<../../.gitbook/assets/$ARK Token Distribution.png>)
 
 ## <mark style="color:yellow;">Utilities</mark>
 
-$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$USDC LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
+$ARK is TCA native governance token and anyone can stake $ARK as a single asset or stake the $ARK-$USDC LP token in [TCA Vault](./#tca-vaults) to exercise the rights to vote/create proposals for [Treasury Funds](../../i-want-to-know-more/funds-allocation.md#treasury). Every stakers will also receive a portion of the protocol multichain investment program.
 
 {% hint style="warning" %}
-_TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
+_TCA Vault will be open after 1 month of conducting the colony_ [_Multichain Investment Program_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip)_. This will provide enough yield distribution for TCA Vault stakers._
 {% endhint %}
 
 Other things you can do with $ARK:
@@ -38,7 +38,7 @@ Other things you can do with $ARK:
 * 560,000 $ARK tokens are reserved for upcoming partnerships and incentivize future partners to grow and thrive together with TCA ecosystem.
 
 {% hint style="success" %}
-_The Funds will be secured on the_ [_Operational Wallet_](../../../i-want-to-know-more/funds-allocation.md#operational-funds)_._
+_The Funds will be secured on the_ [_Operational Wallet_](../../i-want-to-know-more/funds-allocation.md#operational-funds)_._
 {% endhint %}
 
 ### 3. Vested Team Funds - 10% (700,000 $ARK)
@@ -59,6 +59,12 @@ _After the initial mint of 25%, the remaining total supply will be emitted over 
 ### Memory Staking Reward - 70% (4,900,000 $ARK)
 
 * Distributed directly to _**Memory stakers**_
+
+### $ARK Distribution
+
+![](<../../.gitbook/assets/Finance - ARK Pool.jpg>)
+
+There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
 
 ### Treasury Funds - 5% (350,000 $ARK)
 
@@ -82,9 +88,9 @@ In the beginning, there will be 2 types of staking in ARK-Chamber:
 1. Single staking $ARK
 2. $ARK-$USDC LP-token staking
 
-**TCA Vault** is a smart contract that holds generated yields from the colony [_MIP (Multichain Investment Program)_](../../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
+**TCA Vault** is a smart contract that holds generated yields from the colony [_MIP (Multichain Investment Program)_](../../i-want-to-know-more/funds-allocation.md#multichain-investment-program-mip), Minigames taxes, and [_Royalty_](../../i-want-to-know-more/funds-allocation.md#royalty)—distributing them among the $ARK stakers. Furthermore, LP token stakers are entitled to earn an additional yield from the __ [_Swap Fee_](./#swap-fees) gained in TCA ecosystem.
 
-![Ark Vault funds allocation](<../../../.gitbook/assets/Finance - Ark Vault funds.jpg>)
+![Ark Vault funds allocation](<../../.gitbook/assets/Finance - Ark Vault funds.jpg>)
 
 ## <mark style="color:yellow;">Swap Fees</mark>
 
