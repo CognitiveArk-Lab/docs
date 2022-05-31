@@ -29,7 +29,7 @@ In addition to <mark style="color:yellow;">Reward Pool</mark>, we will conclude 
 
 *   #### &#x20;<mark style="color:purple;">Legendary Memory (NFT)</mark>
 
-    Only <mark style="color:yellow;">**Top 1**</mark>**  **<mark style="color:yellow;">**player**</mark> in the Leaderboard will receive _<mark style="color:purple;">**1**</mark>**  **<mark style="color:purple;">**Legendary Memory**</mark>_ that can be played on our _Legendary Timeline_, and holds many benefits and can be played in our gamification V2 update.
+    Only <mark style="color:yellow;">**Top 1**</mark>**  **<mark style="color:yellow;">**player**</mark> in the Leaderboard will receive _<mark style="color:purple;">**1**</mark>**  **<mark style="color:purple;">**Legendary Memory**</mark>_ that can be played on our last chapter the _**Legendary Timeline**_.
 *   <mark style="color:purple;">**Comic Chapter Airdrops (NFT)**</mark>
 
     Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
