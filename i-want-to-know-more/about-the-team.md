@@ -16,11 +16,7 @@ Globally distributed team. We are adopting different cultures and assembling the
 
 ## <mark style="color:yellow;">Ark-Lab Lineup</mark>
 
-![](../.gitbook/assets/Efacsen.png) ![](../.gitbook/assets/Nowhereman.png) ![](../.gitbook/assets/Putripadalarang.png)
-
-![](../.gitbook/assets/Haulerkonj.png) ![](../.gitbook/assets/Kvlj.png)
-
-![](../.gitbook/assets/LordaBix.png) ![](../.gitbook/assets/Mudikersjawa.png)
+![](../.gitbook/assets/Efacsen.png) ![](<../.gitbook/assets/Nowhereman (1).png>) ![](<../.gitbook/assets/Putripadalarang (1).png>)
 
 ### <mark style="color:red;">**Efacsen**</mark>&#x20;
 
