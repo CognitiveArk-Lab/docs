@@ -2,28 +2,24 @@
 
 ## <mark style="color:yellow;">Gamification Terms</mark>
 
-| <mark style="color:yellow;">**TCA Terms**</mark> | <mark style="color:yellow;">**Meanings**</mark> |
-| ------------------------------------------------ | ----------------------------------------------- |
-| MEMORY                                           | The NFTs                                        |
-| Unknown Memories                                 | Common NFT                                      |
-| Memory of the Present                            | RARE NFT                                        |
-| Memory of the Past                               | Very RARE NFT                                   |
-| Memory of the Future                             | EPIC NFT                                        |
-| Legendary Memories                               | LEGENDARY NFT                                   |
-| MEMORY KEEPER                                    | NFT Holder                                      |
-| STAKER                                           | Player / Staker                                 |
-| TIMELINE                                         | Comic Template                                  |
-| PANEL                                            | Slot                                            |
-| PAGE                                             | Comic Page (CP)                                 |
-| ALBUM                                            | Comic Album (CA)                                |
-| COMIC BOOK : VOLUME I                            | Comic Book (CB)                                 |
-| LEGENDARY TIMELINE                               | LEGENDARY Comic Template                        |
-| LEGENDARY PANEL                                  | LEGENDARY Slot                                  |
-| LEGENDARY CHAPTER                                | LEGENDARY Comic Page (CP)                       |
+| <mark style="color:yellow;">**TCA Term**</mark> | <mark style="color:yellow;">**Meaning**</mark> |
+| ----------------------------------------------- | ---------------------------------------------- |
+| Memory                                          | The NFTs                                       |
+| Unknown Memories                                | Common NFT                                     |
+| Memory of the Present                           | Rare NFT                                       |
+| Memory of the Past                              | Very Rare NFT                                  |
+| Memory of the Future                            | Epic NFT                                       |
+| Legendary Memories                              | Legendary NFT                                  |
+| Timeline                                        | Comic Template                                 |
+| Comic Panel                                     | Staking Slot                                   |
+| Comic Page                                      | A finished Timeline                            |
+| Comic Chapter                                   | Collection of Pages                            |
+| Legendary Timeline                              | The Final Timeline of The Cognitive Ark Story  |
+| Legendary Panel                                 | Staking Slot for Legendary Memories            |
 
 ## <mark style="color:yellow;">Story and Lore Terms</mark>
 
-| <mark style="color:yellow;">**TCA Terms**</mark>                                 | <mark style="color:yellow;">**Meaning**</mark>                                                       |
+| <mark style="color:yellow;">**TCA Term**</mark>                                  | <mark style="color:yellow;">**Meaning**</mark>                                                       |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | The Cognitive Ark                                                                | _A_ device capable of transferring human consciousness into another object at will.                  |
 | The Messiah                                                                      | One of the Mothership (Our main setting)                                                             |
@@ -33,6 +29,10 @@
 | The Survivors                                                                    | Those who have leave the Earth and reside in the Mothership                                          |
 | <p>DIE A.N.I.M.A<br>(Die Automasierte Neo-Intelligente menschliche Anatomie)</p> | The new vessel that has been offered to the Survivors after the process of the Cognitive Ark         |
 
-MMORPG - Massive Multiplayer Online Role-Playing Game
+## <mark style="color:yellow;">Common Terms</mark>
 
-P2E- Play to Earn
+| <mark style="color:yellow;">**Term**</mark> | <mark style="color:yellow;">**Meaning**</mark> |
+| ------------------------------------------- | ---------------------------------------------- |
+| MMORPG                                      | Massive Multiplayer Online Role-Playing Game   |
+| P2E                                         | Play to Earn                                   |
+| DAO                                         | Decentralized Autonomous Organizations         |
