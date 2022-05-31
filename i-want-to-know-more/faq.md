@@ -13,6 +13,12 @@
 > Website: [https://solana.com/](https://solana.com/)
 >
 > Twitter: [https://twitter.com/solana](https://twitter.com/solana)
+>
+> NFT Marketplace:&#x20;
+>
+> * [https://magiceden.io/](https://magiceden.io/)
+> * [https://solanart.io/](https://solanart.io/)
+> * [https://opensea.io/](https://opensea.io/)
 
 ### <mark style="color:yellow;">2. I'm new! How can I join the Solana ecosystem?</mark>🌌&#x20;
 
@@ -35,7 +41,7 @@ _If you want to **bridge** your assets from other Blockchain, you can skip to pa
 
 <details>
 
-<summary>2. Buy  $SOL directly from FIAT/Exchanges <span data-gb-custom-inline data-tag="emoji" data-code="1f4b1">💱</span><strong>T</strong></summary>
+<summary>2. Buy  $SOL directly from FIAT/Exchanges <span data-gb-custom-inline data-tag="emoji" data-code="1f4b1">💱</span></summary>
 
 * **TBA**
 
@@ -43,34 +49,13 @@ _If you want to **bridge** your assets from other Blockchain, you can skip to pa
 
 <details>
 
-<summary><mark style="color:red;">3. TODO: Bridge your assets from another blockchain</mark> <span data-gb-custom-inline data-tag="emoji" data-code="1f309">🌉</span></summary>
+<summary>3. Bridge your assets from another blockchain <span data-gb-custom-inline data-tag="emoji" data-code="1f309">🌉</span></summary>
 
 * Get your $SOL on your chain
-  * Avalanche = [TraderJoe](https://traderjoexyz.com/trade?inputCurrency=FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z\&outputCurrency=0xb599c3590F42f8F995ECfa0f85D2980B76862fc1) (Axelar)
-  * Fantom = [SpookySwap](https://spookyswap.finance/swap?inputCurrency=0x4e15361fd6b4bb609fa63c81a2be19d873717870\&outputCurrency=0x846e4D51d7E2043C1a87E0Ab7490B93FB940357b) (Wormhole)
-  * Ethereum = [1inch](https://app.1inch.io/#/1/swap/ETH/0xa693B19d2931d498c5B318dF961919BB4aee87a5) (Wormhole)
-  * BSC = [PancakeSwap](https://pancakeswap.finance/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56\&outputCurrency=0x3d4350cD54aeF9f9b2C29435e0fa809957B3F30a) (Wormhole)
-  * Solana users can use [https://portalbridge.com/#/transfer](https://portalbridge.com/#/transfer)
 
 <!---->
 
-* **Go to** [**https://bridge.terra.money/**](https://bridge.terra.money/) **and connect your wallet**
-
-****![](<../.gitbook/assets/image (6).png>)
-
-* **Choose your Chain from the dropdown list. **_****_&#x20;
-
-_If you don't see your $UST amount,_ _try to change the Bridge Protocol from **WORMHOLE** to **AXELAR** or vice versa._
-
-__![](<../.gitbook/assets/image (5).png>)__
-
-* **Put your Terra wallet address in **_**"Destination Address"**_&#x20;
-
-<!---->
-
-* **"Unlock token to send", "Send" and "Confirm" the transaction**
-
-_****_
+* **Go to** [**Portal Token Bridge**](https://www.portalbridge.com/#/transfer)**, connect your wallet and follow the instruction**
 
 </details>
 
