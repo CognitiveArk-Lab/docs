@@ -34,7 +34,7 @@ There are four rarities based on four types of Memory:
 
 ## <mark style="color:yellow;">Game Mechanics ⚙️</mark>
 
-CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a considerable reward to our Memory holders for really playing and a premium reward on top for scoring the most points. The game mechanics are straightforward:
+CognitiveArk NFT has a different approach to P2E (Play-to-Earn). We allocate a considerable reward to our Memory holders for really playing and a _**premium**_** ** reward on top for scoring the most points. The game mechanics are straightforward:
 
 #### 1. Stake your Memory on the empty panel on the Timeline.&#x20;
 
@@ -52,7 +52,9 @@ _Some Panels will have hints on it; if you can fulfill the requirements, you wil
 
 #### 4. To change the narrative bubble or the position, you need to unstake your Memory.
 
-The Team will update the new Timeline on the website by the end of each cycle.
+{% hint style="info" %}
+_The Team will update the new Timeline on the official website and TCA Discord by the end of each cycle._
+{% endhint %}
 
 ### Timeline Cycle
 
