@@ -87,7 +87,7 @@ Due to our commitment to sustainability, we keep operational funds separated fro
 
 ### Development 🧰
 
-We are here to innovate! Being able to contribute to the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification while also developing more use case, thus bringing more value to the project.
+We are here to innovate! Being able to contribute to the NFT community is our primary goal. We will explore the possibilities of NFT 2.0 to bring more dynamics into our gamification while also developing more use cases like TCA Minigames, thus bringing more value to the project.
 
 ### Marketing 📡
 
