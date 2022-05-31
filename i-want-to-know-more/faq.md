@@ -43,7 +43,9 @@ _If you want to **bridge** your assets from other Blockchain, you can skip to pa
 
 <summary>2. Buy  $SOL directly from FIAT/Exchanges <span data-gb-custom-inline data-tag="emoji" data-code="1f4b1">💱</span></summary>
 
-* **TBA**
+* ****[**Binance**](https://www.binance.com/)
+* ****[**KuCoin**](https://www.kucoin.com/)****
+* ****[**Coinbase**](https://www.coinbase.com/)****
 
 </details>
 
@@ -72,7 +74,7 @@ We are launching on Solana in Q2 2022.
 ### <mark style="color:yellow;">5. What is the minting price?</mark>🔖
 
 * Whitelist: TBA (700 reserved for whitelists, 4 NFTs per whitelist)
-* Public: TBA (2200 NFTs, max 8 NFTs per wallet)
+* Public: TBA (2200 NFTs with dynamic pricing, max 8 NFTs per wallet)
 
 ##
 
