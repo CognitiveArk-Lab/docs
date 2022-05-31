@@ -14,8 +14,8 @@ description: >-
 * **70% to Project Wallet**
   * _20% to Operational Funds_
   * _80% to Treasury_
-* **2.5% to Reward Pool**
-* **2.5% to Initial $ARK Liquidity Pool**
+* **2.5% to** [**Reward Pool**](../injecting-new-nft-culture/reward-system.md#1.-reward-pool)****
+* **2.5% to** [**Initial $ARK Liquidity Pool**](../injecting-new-nft-culture/usdark-tokenomics/#1.-initial-liquidity-pool-10-700-000-usdark)****
 * **25% to Team**
 
 {% hint style="info" %}
@@ -24,7 +24,7 @@ _**100%** of A.N.I.M.A sales proceeds will be directly going to Operational Fund
 
 ## <mark style="color:yellow;">Project Wallet 🚀</mark>
 
-Project Wallet will be maintained together by ArkDAO and TCA Team. It is vital for our future project development like Gamification V2, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
+Project Wallet will be maintained together by ArkDAO and TCA Team. It is vital for our future project development like TCA minigames, Merch Store, Marketing, and overall welfare of the Colony.&#x20;
 
 {% hint style="success" %}
 _In a Nutshell, the Project Wallet is our thrust engine that keeps our Mega Spaceship (Messiah) exploring the fastness space of the universe._
