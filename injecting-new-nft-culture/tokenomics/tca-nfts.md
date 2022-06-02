@@ -32,8 +32,8 @@ The Cognitive Ark gen0 named "**Memory**" initiated. The Ark will soon release *
 
 ![](<../../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
 
-* 700 Memories reserved for Whitelist minting
-* 2200 Memories reserved for Public minting
+* <mark style="color:red;">**TBA**</mark> XXX Memories reserved for Whitelist minting&#x20;
+* <mark style="color:red;">**TBA**</mark> XXX Memories reserved for Public minting
 * 100 Memories reserved for A.N.I.M.A holder
 * 50 Memories reserved for Giveaway and Partnership program
 

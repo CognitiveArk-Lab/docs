@@ -24,5 +24,5 @@
 * [Website](https://www.cognitiveark.io)
 * [Twitter](https://twitter.com/cognitiveArk)
 * [Instagram](https://www.instagram.com/cognitive\_ark/)
-* [Discord](https://discord.gg/NzDV2NRT)
+* [Discord](https://discord.gg/cognitiveark)
 * [Github](https://github.com/CognitiveArk-Lab)
