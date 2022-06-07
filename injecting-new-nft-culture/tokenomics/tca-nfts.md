@@ -10,7 +10,7 @@ First phase of The Cognitive Ark will be started by releasing _**100 exclusive N
 
 ![The A.N.I.M.A](<../../.gitbook/assets/ANIMA Blueprint.png>)
 
-"_`Amongst the survivor who inhabited the mothership Messiah, some machine-like figure can be found roaming around over the years. With faces and emotions resemble human beings and even speak like one- almost exactly like a human with a different body. They don't appear so hostile; instead, they seem to help develop the colony. Yet, their origins remain a mystery.`_"
+"_`Among the survivors who inhabited the Mothership Messiah, some machine-like figures could be found roaming around over the years. They possessed humanlike faces, expressing emotions just like humans, and even speaking like one. Some would say that they're almost exactly like humans in cyber bodies. They don't appear hostile; instead, they seem to aid in the development of the colony. To this day, their origins remain a mystery.`_"
 
 
 
