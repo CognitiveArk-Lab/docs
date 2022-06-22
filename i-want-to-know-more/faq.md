@@ -32,7 +32,7 @@ _If you want to **bridge** your assets from other Blockchain, you can skip to pa
 
 <summary>1. Create your fresh Sol wallet <span data-gb-custom-inline data-tag="emoji" data-code="1f389">🎉</span></summary>
 
-#### Download your fresh Terra Wallet and set it up :closed\_lock\_with\_key:
+#### Download your fresh Solana Wallet and set it up :closed\_lock\_with\_key:
 
 * [Phantom Wallet](https://phantom.app/) :ghost:
 * [Solflare](https://solflare.com/) :boom:
