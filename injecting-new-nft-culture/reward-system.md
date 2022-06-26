@@ -6,7 +6,8 @@ Our goal is to build a sustainable community that encourages the Memory holder t
 
 Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly Leaderboards will receive a portion of the Reward Pool.&#x20;
 
-{% hint style="success" %}
+{% hint style="warning" %}
+_**Example:**_\
 _There will be a reward of **$1,000.00** or **more** available for **10 players** who score the most points each cycle._
 
 _The reward will be paid out in form of **$USDC**_

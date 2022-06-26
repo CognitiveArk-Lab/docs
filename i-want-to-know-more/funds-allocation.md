@@ -110,6 +110,12 @@ The payment will be on-chain and the profits will go back into the Treasury and 
 _By allocating 2.5% of minting proceeds to the Reward Pool, we ensure a reward payment for each Timeline even before royalties and MIP arrive in the Reward Pool Wallet._
 {% endhint %}
 
+There will be 3 Tier of reward, which will be determined by the minting percentage of the gen0:
+
+* 25% Total minted = 250 $USDC/Timeline
+* 50% Total minted = 500 $USDC/Timeline
+* 100% Total minted (Sold out) = 1,000 $USDC/Timeline
+
 ![The reward is subject to change depending on source funds](<../.gitbook/assets/Finance - Reward Pool.jpg>)
 
 ## <mark style="color:yellow;">Royalty</mark> 🧾
