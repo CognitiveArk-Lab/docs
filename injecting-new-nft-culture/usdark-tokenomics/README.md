@@ -31,7 +31,7 @@ Other things you can do with $ARK:
 
 ### 1. Initial Liquidity Pool - 10% (700,000 $ARK)
 
-* 700,000 $ARK will be paired with 10,000 $USDC.
+* 700,000 $ARK will be paired with $USDC (2,5% from minting revenue).
 
 ### 2. Strategic Partnership - 5% (350,000 $ARK)
 
