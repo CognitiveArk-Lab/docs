@@ -38,18 +38,6 @@ CO-FOUNDER & ART DIRECTOR
 
 A visual connoisseur and a natural storyteller. Cultivating an eye that beholds the interconnectedness between human psychology, history, and philosophy. Striving to stretch the boundaries of aestheticism with her unique art style based on manga, surrealism, and psychedelia.
 
-### <mark style="color:red;">**Haulerkonj**</mark>
-
-LEAD DEVELOPER
-
-Passion-driven, visionary Blockchain developer. Married to RUST. Have a rich understanding of every Blockchains Layer. Producer of high-quality code. A techie 🤓 that opens up for a challenge.
-
-### <mark style="color:red;">Kvlj</mark>
-
-COMMUNITY MANAGER
-
-Passionate in communication studies, art, and culture. Keen problem solver. Believe in the importance of valid principles for every decision-making.
-
 ### <mark style="color:red;">LordabiX</mark>
 
 DISCORD MANAGER
