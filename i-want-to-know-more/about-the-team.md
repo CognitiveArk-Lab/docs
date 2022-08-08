@@ -18,8 +18,6 @@ Globally distributed team. We are adopting different cultures and assembling the
 
 ![](../.gitbook/assets/Efacsen.png) ![](<../.gitbook/assets/Nowhereman (1).png>) ![](<../.gitbook/assets/Putripadalarang (1).png>)
 
-![](../.gitbook/assets/Haulerkonj.png) ![](<../.gitbook/assets/Kvlj (1).png>)
-
 ![](<../.gitbook/assets/LordaBix (1).png>) ![](../.gitbook/assets/Mudikersjawa.png)
 
 ### <mark style="color:red;">**Efacsen**</mark>&#x20;
