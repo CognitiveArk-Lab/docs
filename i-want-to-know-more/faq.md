@@ -74,8 +74,8 @@ We are launching on Solana in Q3 2022.
 ### <mark style="color:yellow;">5. What is the minting price?</mark>🔖
 
 * A.N.I.M.A: <mark style="color:red;">TBA</mark> (100 NFTs , max 1 NFT per wallet)
-* Gen0 Whitelist: <mark style="color:red;">TBA</mark> (XXX reserved for whitelists, 2 NFTs per whitelist)
-* Gen0 Public: <mark style="color:red;">TBA</mark> (XXX NFTs with dynamic pricing, max 8 NFTs per wallet)
+* Gen0 Whitelist: <mark style="color:red;">TBA</mark> (XXX reserved for whitelists)
+* Gen0 Public: <mark style="color:red;">TBA</mark> (XXX NFTs with dynamic pricing)
 
 ##
 
