@@ -39,6 +39,7 @@ The first allocation from minting proceeds that arrived in the Treasury will fun
 ArkDAO will have the capacity to decide how the Colony will spend the Treasury. Some _ideas_ but not limited to:
 
 * _Reinvest in colony Multichain Investment Program_
+* _Running Validator node_
 * _Buyback program (Raising Memory floor price)_
 * _Boost the Reward Pool_
 * _Investing in new emerging projects_
