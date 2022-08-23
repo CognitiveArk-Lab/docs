@@ -26,11 +26,11 @@ There are four rarities based on four types of Memory:
 * Memory of The Past (_Mystic_)
 * Memory of The Future (_Epic_)
 
-![](../../.gitbook/assets/Image\_For\_Docs\_-\_Memory.png)
+![NFTs Example](../../.gitbook/assets/Image\_For\_Docs\_-\_Memory.png)
 
 ### The Timeline (Comic Template)
 
-![not the actual Timeline](../../.gitbook/assets/Timeline.png)
+![](../../.gitbook/assets/Image\_For\_Docs\_-\_Timeline.png)
 
 ## <mark style="color:yellow;">Game Mechanics ⚙️</mark>
 
