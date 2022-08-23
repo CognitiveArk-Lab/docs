@@ -26,7 +26,7 @@ There are four rarities based on four types of Memory:
 * Memory of The Past (_Mystic_)
 * Memory of The Future (_Epic_)
 
-![](../../.gitbook/assets/Memory.png)
+![](../../.gitbook/assets/Image\_For\_Docs\_-\_Memory.png)
 
 ### The Timeline (Comic Template)
 
