@@ -15,7 +15,7 @@ _The reward will be paid out in form of **$USDC**_
 
 ### Timeline winners allocation:
 
-* 🏆 Top 1: 15%
+* 🏆 Top 1: 15% + _<mark style="color:purple;">1 Legendary NFT</mark>_
 * 🥇 Top 2-3: 12,5%
 * 🥈 Top 4-5: 10%
 * 🥉 Top 6-10: 8%
