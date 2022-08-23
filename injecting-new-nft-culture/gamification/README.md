@@ -70,7 +70,7 @@ The goal is to score the highest points by the end of each cycle. If there are t
 
 * 10 pts for every correct narrative bubble
 * 10 pts for every correct bubble position
-* 10 pts for  each special panel
+* 10 pts for each correct rarity/traits guidance
 * 1-30 pts from story interpretations
 
 ### Leaderboard
