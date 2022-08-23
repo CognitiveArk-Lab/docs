@@ -8,7 +8,9 @@ Memory holders who completed the Timeline and ended up in the Top 10 Bi-weekly L
 
 {% hint style="warning" %}
 _**Example:**_\
-_There will be a reward of **$1,000.00** or **more** available for **10 players** who score the most points each cycle._
+_There is **$1,000** in the Reward Pool. This **$1,000** will be allocated to **10 players** who score the most points each cycle._
+
+_$150 for Rank 1, $125 for Rank 2-3, etc._
 
 _The reward will be paid out in form of **$USDC**_
 {% endhint %}
@@ -21,7 +23,7 @@ _The reward will be paid out in form of **$USDC**_
 * 🥉 Top 6-10: 8%
 
 {% hint style="info" %}
-_The reward is subject to change depending on source funds, more on this on_ [_Funds Allocation_](../i-want-to-know-more/funds-allocation.md) _>_ [_Reward Pool_](../i-want-to-know-more/funds-allocation.md#reward-pool)__
+_The reward amount is subject to change depending on source funds, more on this on_ [_Funds Allocation_](../i-want-to-know-more/funds-allocation.md) _>_ [_Reward Pool_](../i-want-to-know-more/funds-allocation.md#reward-pool)__
 {% endhint %}
 
 ## <mark style="color:yellow;">2. Timeline Reward</mark>
@@ -30,10 +32,7 @@ In addition to <mark style="color:yellow;">Reward Pool</mark>, we will conclude 
 
 *   #### &#x20;<mark style="color:purple;">Legendary Memory (NFT)</mark>
 
-    Only <mark style="color:yellow;">**Top 1**</mark>**  **<mark style="color:yellow;">**player**</mark> in the Leaderboard will receive _<mark style="color:purple;">**1**</mark>**  **<mark style="color:purple;">**Legendary Memory**</mark>_ that can be played on our **Final Chapter the** _**Legendary Timeline**_.
-*   <mark style="color:purple;">**Comic Page Airdrop (NFT)**</mark>
-
-    Each player participating in The Timeline will receive a copy of the comic chapter with the winner Memory printed as the main character.
+    Only <mark style="color:yellow;">**Rank 1**</mark>**  **<mark style="color:yellow;">**player**</mark> in the Leaderboard will receive _<mark style="color:purple;">**1**</mark>**  **<mark style="color:purple;">**Legendary Memory**</mark>_ that can be played on our **Final Chapter the** _**Legendary Timeline**_.
 
 ## <mark style="color:yellow;">3. Staking Reward</mark>
 
@@ -44,7 +43,7 @@ There are two types of staking:
     Earn $ARK for staking your Memory on the Timeline.
 *   <mark style="color:purple;">**$ARK Staking**</mark>
 
-    Earn a share of __ [_TCA Vault_](usdark-tokenomics/#tca-vaults) by staking $ARK as a single side asset or by staking LP-token on [ARK-Chamber](usdark-tokenomics/#ark-chamber).
+    Earn a share of __ [_TCA Vault_](usdark-tokenomics/#tca-vaults) by staking $ARK as a single side asset on [ARK-Chamber](usdark-tokenomics/#ark-chamber).
 
 {% hint style="danger" %}
 _Staking Memory is the only way to mint $ARK from TCA ecosystem._
@@ -54,6 +53,5 @@ _Staking Memory is the only way to mint $ARK from TCA ecosystem._
 
 * Participate in the gamification (Timeline) to earn $ARK
 * Score most points to have a chance of winning _<mark style="color:purple;">Legendary Memory</mark>_
-* Get comic airdrop every 2 weeks
-* Stake $ARK on [ARK-Chamber](usdark-tokenomics/#ark-chamber) to get more rewards
+* Stake $ARK on [ARK-Chamber](usdark-tokenomics/#ark-chamber) to get a percentage of ArkDAO income
 * Repeat 🔁
