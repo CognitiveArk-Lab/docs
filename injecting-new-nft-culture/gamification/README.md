@@ -50,7 +50,7 @@ _Some Panels will have hints on it; if you can fulfill the requirements, you wil
 
 #### 3. After you stake your Memory, your Memory will be locked for two days before you can unstake it.
 
-#### 4. To change the narrative bubble or the position, you need to unstake your Memory.
+#### 4. To change the narrative bubble or the position, you can do it directly from the Timeline; no need to unstake your NFT.
 
 {% hint style="info" %}
 _The Team will update the new Timeline on the official website and TCA Discord by the end of each cycle._
