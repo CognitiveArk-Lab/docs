@@ -73,7 +73,8 @@ _Funds from Treasury will be invested in emerging projects that are chosen by th
 Each month MIP yield will be distributed as follows:
 
 * _40% Back to Treasury_
-* _40% Ark Vault_
+* _20% Ark Vault_
+* _20% Reward Pool_
 * _20% Team_
 
 ## <mark style="color:yellow;">Operational Funds💼</mark>

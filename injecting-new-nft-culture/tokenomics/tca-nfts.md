@@ -24,13 +24,14 @@ The benefits for holding A.N.I.M.A is as follows:
 * **Free pass to mint 1 gen0 for free**
 * Playable in the Timeline gamification
 * Can be staked to earn $ARK
+* Part of [_Epic Pool_](https://docs.cognitiveark.io/injecting-new-nft-culture/usdark-tokenomics#usdark-distribution) __ (Earn more $ARK)
 * Access unique role on Discord
 
 ## <mark style="color:yellow;">The Cognitive Ark gen0 (The Genesis)</mark>
 
 The Cognitive Ark gen0 named "**Memory**" initiated. The Ark will soon release **3050** scattered **memories** and populate Solana Ecosystem ☄️. Be a part of the Colony that will terraform the NFT space 🛸.
 
-![](<../../.gitbook/assets/Finance - Tokenomicsv2.jpg>)
+![](<../../.gitbook/assets/Finance - gen0 Total Supply.jpg>)
 
 * <mark style="color:red;">**TBA**</mark> XXX Memories reserved for Whitelist minting&#x20;
 * <mark style="color:red;">**TBA**</mark> XXX Memories reserved for Public minting

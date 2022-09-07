@@ -62,7 +62,7 @@ _After the initial mint of 25%, the remaining total supply will be emitted over 
 
 ### $ARK Distribution
 
-![](<../../.gitbook/assets/Finance - ARK Pool.jpg>)
+![](<../../.gitbook/assets/Finance - ARK Pool FINAL.jpg>)
 
 There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
 
