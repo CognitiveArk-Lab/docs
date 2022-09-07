@@ -2,7 +2,7 @@
 
 ## <mark style="color:yellow;">$ARK Token</mark>
 
-$ARK token is the governance token for TCA ecosystem and can **only be minted** by staking Memory into the Timeline.&#x20;
+$ARK token is the governance and acts as a shareholder token for TCA ecosystem and can **only be minted** by staking Memory into the Staking Room.&#x20;
 
 {% hint style="success" %}
 _The total maximum supply of $ARK is capped at **7,000,000** tokens._
@@ -64,13 +64,25 @@ _After the initial mint of 25%, the remaining total supply will be emitted over 
 
 ![](<../../.gitbook/assets/Finance - ARK Pool FINAL.jpg>)
 
-There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memories rarity.&#x20;
+There will be a limited amount of $ARK emitted per day and splitting it into four pools. Each __ pool represents one of the Memory's rarity.
+
+{% hint style="success" %}
+_The higher the rarity, the fewer people are in the Pool, thus leading to more $ARK you can earn daily._
+{% endhint %}
+
+{% hint style="info" %}
+**For example, if each Pool has 1,000 $ARK**
+
+* **Common Pool** will have to share the 1,000 $ARK with 1,830 gen0 NFTs
+* **Rare Pool** will have to share the 1,000 $ARK with 915 gen0 NFTs
+* **Epic Pool** will have to share the 1,000 $ARK with 305 gen0 NFTs + 100 (A.N.I.M.A) NFTs
+{% endhint %}
 
 ### Treasury Funds - 5% (350,000 $ARK)
 
+* After we are well established, the Treasury Funds will be secured by 4/5 multisig wallet, consisting of 2 TCA Team members and 3 well-known community members
 * ArkDAO will have the opportunity to decide where to spend the Treasury Funds
 * TCA Team will not ever use nor take advantage of Treasury Funds
-* After we are well established, the Treasury Funds will be secured by 4/5 multisig wallet, consisting of 2 TCA Team members and 3 well-known community members
 
 ## <mark style="color:yellow;">ARK-Chamber</mark>
 
